@@ -1,4 +1,4 @@
-![header](nero_animated_small.gif)
+![header](https://github.com/N3ROO/N3ROO/raw/master/nero_animated_small.gif)
 
 ### Hi there 👋 I'm Lilian G. (aka N3ROO on github)
 

@@ -1,6 +1,6 @@
-![header](https://github.com/N3ROO/N3ROO/raw/master/nero_animated_small.gif)
-
 ### Hi there 👋 I'm Lilian G. (aka N3ROO on github)
+
+![bio](https://github-readme-stats.vercel.app/api?username=N3ROO&show_icons=true&hide_title=true)  ![lang](https://github-readme-stats.vercel.app/api/top-langs/?username=N3ROO&layout=compact&hide=jupyter%20notebook)
 
 - 🔨 Currently working on [Bettercolors](https://github.com/N3ROO/Bettercolors) 7.3.0, [BettercolorsEngine](https://github.com/N3ROO/BettercolorsEngine) 1.0.0 (almost done), 
 - 📦 Recently released:

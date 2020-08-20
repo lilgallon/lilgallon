@@ -2,7 +2,7 @@
 
 ![bio](https://github-readme-stats.vercel.app/api?username=N3ROO&show_icons=true&hide_title=true)  ![lang](https://github-readme-stats.vercel.app/api/top-langs/?username=N3ROO&layout=compact&hide=jupyter%20notebook)
 
-- 🔨 Currently working on [Bettercolors](https://github.com/N3ROO/Bettercolors) 7.3.0
+- 🔨 Currently working on [Bettercolors](https://github.com/N3ROO/Bettercolors) 7.3.0 and [Daily Wallhaven Wallpaper)(https://github.com/N3ROO/Daily-Wallhaven-Wallpaper)
 - 📦 Recently released:
     - [BettercolorsEngine](https://github.com/N3ROO/BettercolorsEngine) 1.0.0
     - [LatencyMod](https://github.com/N3ROO/LatencyMod) 0.1.0

@@ -48,6 +48,12 @@ I am currently working on [Bettercolors](https://github.com/N3ROO/Bettercolors) 
 
 <h3> Where to find me </h3>
 
-<p><a href="https://github.com/N3ROO" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/LilianSurf" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/lilian-gallon" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://discordapp.com/users/76281566866706432" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" /></a> <a href="https://nero.dev" target="_blank"><img alt="Website" src="https://img.shields.io/badge/nero.dev-%234C566A.svg?&style=for-the-badge&logo=microsoftedge&logoColor=white" /></a></p>
+<p>
+<a href="https://nero.dev" target="_blank"><img alt="Website" src="https://img.shields.io/badge/nero.dev-%234C566A.svg?&style=for-the-badge&logo=microsoft-edge&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/lilian-gallon" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://twitter.com/LilianSurf" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
+<a href="https://discordapp.com/users/76281566866706432" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" /></a>
+<a href="https://github.com/N3ROO" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
+</p>
 
 Also lgallon@ucsc.edu or lilian.gallon@u-bordeaux.fr.

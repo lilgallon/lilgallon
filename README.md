@@ -4,7 +4,7 @@ I'm a senior student specialized in Software Engineering at the <img src="https:
 
 <h3> Skills </h3>
 
-I’ve got some experience every domain on computer science. Lately, I've been studying reverse engineering and C++ (in depth). I update a [C++ cheatsheet](https://github.com/N3ROO/Cheatsheets/blob/master/cpp.md) during the process.
+I’ve got some experience every domain on computer science <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="23">. Lately, I've been studying reverse engineering and C++ (in depth). I update a [C++ cheatsheet](https://github.com/N3ROO/Cheatsheets/blob/master/cpp.md) during the process.
 
 <h3> Recent releases </h3>
 

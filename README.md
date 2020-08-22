@@ -22,6 +22,7 @@ I am currently working on [Bettercolors](https://github.com/N3ROO/Bettercolors) 
 
 <details>
   <summary>:zap: Recent Github Activity</summary>
+
     <!--START_SECTION:activity-->
 1. 🗣 Commented on [#66](https://github.com//N3ROO/Bettercolors/issues/66) in [N3ROO/Bettercolors](https://github.com//N3ROO/Bettercolors)
 2. 🗣 Commented on [#65](https://github.com//N3ROO/Bettercolors/issues/65) in [N3ROO/Bettercolors](https://github.com//N3ROO/Bettercolors)
@@ -29,6 +30,7 @@ I am currently working on [Bettercolors](https://github.com/N3ROO/Bettercolors) 
 4. ❗️ Closed issue [#64](https://github.com//N3ROO/Bettercolors/issues/64) in [N3ROO/Bettercolors](https://github.com//N3ROO/Bettercolors)
 5. 🗣 Commented on [#64](https://github.com//N3ROO/Bettercolors/issues/64) in [N3ROO/Bettercolors](https://github.com//N3ROO/Bettercolors)
     <!--END_SECTION:activity-->
+
 </details>
 
 <details>

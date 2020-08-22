@@ -37,7 +37,10 @@
 
 <details>
   <summary>:zap: Github Stats</summary>
+<br>
 
 ![bio](https://github-readme-stats.vercel.app/api?username=N3ROO&show_icons=true&hide_title=true)
+
 ![lang](https://github-readme-stats.vercel.app/api/top-langs/?username=N3ROO&layout=compact&hide=jupyter%20notebook)
+
 </details>

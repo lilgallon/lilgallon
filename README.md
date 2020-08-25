@@ -13,10 +13,10 @@ I’ve got some experience in every domain of computer science <img src="https:/
 | [Daily Wallhaven Wallpaper](https://github.com/N3ROO/Daily-Wallhaven-Wallpaper) 1.0.0 | A script that changes your wallpaper everyday by picking one on [Wallhaven]([W](https://wallhaven.cc/)) |
 | [BettercolorsEngine](https://github.com/N3ROO/BettercolorsEngine) 1.0.0 | The Engine of the Minecraft mod [Bettercolors](https://github.com/N3ROO/Bettercolors)|
 | [LatencyMod](https://github.com/N3ROO/LatencyMod) 0.1.0 | A Minecraft mod that displays your latency |
-| [AimAssistanceMod](https://github.com/N3ROO/AimAssistanceMod) 1.0.0 | A Minecraft that helps you aiming |
+| [AimAssistanceMod](https://github.com/N3ROO/AimAssistanceMod) 1.1.0 | A Minecraft mod that helps you aiming |
+| [Bettercolors](https://github.com/N3ROO/Bettercolors) 7.3.0 | A Minecraft assistance mod
 
-I am currently working on [Bettercolors](https://github.com/N3ROO/Bettercolors) 7.3.0.
-
+Not working on any project at the moment (I just released 3 new versions), but still maintaining AimAssistanceMod, Bettercolors & BettercolorsEngine. I'm currently learning C++ in depth, especially OpenGL and batch rendering.
 
 ---
 

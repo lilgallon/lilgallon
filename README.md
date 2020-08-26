@@ -16,7 +16,7 @@ I’ve got some experience in every domain of computer science <img src="https:/
 | [AimAssistanceMod](https://github.com/N3ROO/AimAssistanceMod) 1.1.0 | A Minecraft mod that helps you aiming |
 | [Bettercolors](https://github.com/N3ROO/Bettercolors) 7.3.0 | A Minecraft assistance mod
 
-Not working on any project at the moment (I just released 3 new versions), but still maintaining AimAssistanceMod, Bettercolors & BettercolorsEngine. I'm currently learning C++ in depth, especially OpenGL and batch rendering.
+Currently maintaining AimAssistanceMod, Bettercolors & BettercolorsEngine.
 
 ---
 

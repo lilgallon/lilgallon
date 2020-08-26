@@ -24,11 +24,11 @@ Not working on any project at the moment (I just released 3 new versions), but s
   <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#66](https://github.com//N3ROO/Bettercolors/issues/66) in [N3ROO/Bettercolors](https://github.com//N3ROO/Bettercolors)
-2. ❗️ Closed issue [#65](https://github.com//N3ROO/Bettercolors/issues/65) in [N3ROO/Bettercolors](https://github.com//N3ROO/Bettercolors)
-3. ❗️ Closed issue [#62](https://github.com//N3ROO/Bettercolors/issues/62) in [N3ROO/Bettercolors](https://github.com//N3ROO/Bettercolors)
-4. 🎉 Merged PR [#68](https://github.com//N3ROO/Bettercolors/pull/68) in [N3ROO/Bettercolors](https://github.com//N3ROO/Bettercolors)
-5. ❌ Reopened PR [#68](https://github.com//N3ROO/Bettercolors/pull/68) in [N3ROO/Bettercolors](https://github.com//N3ROO/Bettercolors)
+1. 🎉 Merged PR [#8](https://github.com//N3ROO/BettercolorsEngine/pull/8) in [N3ROO/BettercolorsEngine](https://github.com//N3ROO/BettercolorsEngine)
+2. 💪 Opened PR [#8](https://github.com//N3ROO/BettercolorsEngine/pull/8) in [N3ROO/BettercolorsEngine](https://github.com//N3ROO/BettercolorsEngine)
+3. ❗️ Closed issue [#66](https://github.com//N3ROO/Bettercolors/issues/66) in [N3ROO/Bettercolors](https://github.com//N3ROO/Bettercolors)
+4. ❗️ Closed issue [#65](https://github.com//N3ROO/Bettercolors/issues/65) in [N3ROO/Bettercolors](https://github.com//N3ROO/Bettercolors)
+5. ❗️ Closed issue [#62](https://github.com//N3ROO/Bettercolors/issues/62) in [N3ROO/Bettercolors](https://github.com//N3ROO/Bettercolors)
 <!--END_SECTION:activity-->
 
 </details>

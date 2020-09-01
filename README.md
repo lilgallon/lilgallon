@@ -25,10 +25,10 @@ Currently maintaining AimAssistanceMod, Bettercolors & BettercolorsEngine.
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#70](https://github.com//N3ROO/Bettercolors/issues/70) in [N3ROO/Bettercolors](https://github.com//N3ROO/Bettercolors)
-2. 💪 Opened PR [#9](https://github.com//N3ROO/BettercolorsEngine/pull/9) in [N3ROO/BettercolorsEngine](https://github.com//N3ROO/BettercolorsEngine)
-3. 🎉 Merged PR [#8](https://github.com//N3ROO/BettercolorsEngine/pull/8) in [N3ROO/BettercolorsEngine](https://github.com//N3ROO/BettercolorsEngine)
-4. 💪 Opened PR [#8](https://github.com//N3ROO/BettercolorsEngine/pull/8) in [N3ROO/BettercolorsEngine](https://github.com//N3ROO/BettercolorsEngine)
-5. ❗️ Closed issue [#66](https://github.com//N3ROO/Bettercolors/issues/66) in [N3ROO/Bettercolors](https://github.com//N3ROO/Bettercolors)
+2. 🗣 Commented on [#74](https://github.com//N3ROO/Bettercolors/issues/74) in [N3ROO/Bettercolors](https://github.com//N3ROO/Bettercolors)
+3. 🗣 Commented on [#72](https://github.com//N3ROO/Bettercolors/issues/72) in [N3ROO/Bettercolors](https://github.com//N3ROO/Bettercolors)
+4. 🗣 Commented on [#73](https://github.com//N3ROO/Bettercolors/issues/73) in [N3ROO/Bettercolors](https://github.com//N3ROO/Bettercolors)
+5. 🗣 Commented on [#70](https://github.com//N3ROO/Bettercolors/issues/70) in [N3ROO/Bettercolors](https://github.com//N3ROO/Bettercolors)
 <!--END_SECTION:activity-->
 
 </details>

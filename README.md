@@ -24,11 +24,11 @@ Currently maintaining AimAssistanceMod, Bettercolors & BettercolorsEngine.
   <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com//N3ROO/AimAssistanceMod/pull/3) in [N3ROO/AimAssistanceMod](https://github.com//N3ROO/AimAssistanceMod)
-2. 💪 Opened PR [#3](https://github.com//N3ROO/AimAssistanceMod/pull/3) in [N3ROO/AimAssistanceMod](https://github.com//N3ROO/AimAssistanceMod)
-3. 🗣 Commented on [#78](https://github.com//N3ROO/Bettercolors/issues/78) in [N3ROO/Bettercolors](https://github.com//N3ROO/Bettercolors)
-4. 🗣 Commented on [#77](https://github.com//N3ROO/Bettercolors/issues/77) in [N3ROO/Bettercolors](https://github.com//N3ROO/Bettercolors)
-5. ❗️ Opened issue [#76](https://github.com//N3ROO/Bettercolors/issues/76) in [N3ROO/Bettercolors](https://github.com//N3ROO/Bettercolors)
+1. ❗️ Closed issue [#1](https://github.com//N3ROO/N3ROO/issues/1) in [N3ROO/N3ROO](https://github.com//N3ROO/N3ROO)
+2. 🗣 Commented on [#1](https://github.com//N3ROO/N3ROO/issues/1) in [N3ROO/N3ROO](https://github.com//N3ROO/N3ROO)
+3. 🎉 Merged PR [#3](https://github.com//N3ROO/AimAssistanceMod/pull/3) in [N3ROO/AimAssistanceMod](https://github.com//N3ROO/AimAssistanceMod)
+4. 💪 Opened PR [#3](https://github.com//N3ROO/AimAssistanceMod/pull/3) in [N3ROO/AimAssistanceMod](https://github.com//N3ROO/AimAssistanceMod)
+5. 🗣 Commented on [#78](https://github.com//N3ROO/Bettercolors/issues/78) in [N3ROO/Bettercolors](https://github.com//N3ROO/Bettercolors)
 <!--END_SECTION:activity-->
 
 </details>

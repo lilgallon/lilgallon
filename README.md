@@ -13,7 +13,7 @@ I’ve got some experience in every domain of computer science <img src="https:/
 | [Daily Wallhaven Wallpaper](https://github.com/N3ROO/Daily-Wallhaven-Wallpaper) 1.0.0 | A script that changes your wallpaper everyday by picking one on [Wallhaven]([W](https://wallhaven.cc/)) |
 | [BettercolorsEngine](https://github.com/N3ROO/BettercolorsEngine) 1.1.0 (published on maven central) | The Engine of the Minecraft mod [Bettercolors](https://github.com/N3ROO/Bettercolors). Can be used for anything else that requires an automatically generated GUI  |
 | [LatencyMod](https://github.com/N3ROO/LatencyMod) 0.1.0 | A Minecraft mod that displays your latency |
-| [AimAssistanceMod](https://github.com/N3ROO/AimAssistanceMod) 1.1.0 | A Minecraft mod that helps you aiming |
+| [AimAssistanceMod](https://github.com/N3ROO/AimAssistanceMod) 1.2.0 | A Minecraft mod that helps you aiming |
 | [Bettercolors](https://github.com/N3ROO/Bettercolors) 7.3.0 | A Minecraft assistance mod
 
 Currently maintaining AimAssistanceMod, Bettercolors & BettercolorsEngine.

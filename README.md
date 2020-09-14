@@ -24,11 +24,11 @@ Currently maintaining AimAssistanceMod, Bettercolors & BettercolorsEngine.
   <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com//N3ROO/N3ROO/issues/1) in [N3ROO/N3ROO](https://github.com//N3ROO/N3ROO)
-2. 🗣 Commented on [#1](https://github.com//N3ROO/N3ROO/issues/1) in [N3ROO/N3ROO](https://github.com//N3ROO/N3ROO)
-3. 🎉 Merged PR [#3](https://github.com//N3ROO/AimAssistanceMod/pull/3) in [N3ROO/AimAssistanceMod](https://github.com//N3ROO/AimAssistanceMod)
-4. 💪 Opened PR [#3](https://github.com//N3ROO/AimAssistanceMod/pull/3) in [N3ROO/AimAssistanceMod](https://github.com//N3ROO/AimAssistanceMod)
-5. 🗣 Commented on [#78](https://github.com//N3ROO/Bettercolors/issues/78) in [N3ROO/Bettercolors](https://github.com//N3ROO/Bettercolors)
+1. ❗️ Closed issue [#1](https://github.com//N3ROO/M2_Genie_Logiciel/issues/1) in [N3ROO/M2_Genie_Logiciel](https://github.com//N3ROO/M2_Genie_Logiciel)
+2. 🗣 Commented on [#1](https://github.com//N3ROO/M2_Genie_Logiciel/issues/1) in [N3ROO/M2_Genie_Logiciel](https://github.com//N3ROO/M2_Genie_Logiciel)
+3. ❗️ Closed issue [#1](https://github.com//N3ROO/N3ROO/issues/1) in [N3ROO/N3ROO](https://github.com//N3ROO/N3ROO)
+4. 🗣 Commented on [#1](https://github.com//N3ROO/N3ROO/issues/1) in [N3ROO/N3ROO](https://github.com//N3ROO/N3ROO)
+5. 🎉 Merged PR [#3](https://github.com//N3ROO/AimAssistanceMod/pull/3) in [N3ROO/AimAssistanceMod](https://github.com//N3ROO/AimAssistanceMod)
 <!--END_SECTION:activity-->
 
 </details>

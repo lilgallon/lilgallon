@@ -13,10 +13,20 @@ I’ve got some experience in every domain of computer science <img src="https:/
 | [Daily Wallhaven Wallpaper](https://github.com/N3ROO/Daily-Wallhaven-Wallpaper) 1.0.0 | A script that changes your wallpaper everyday by picking one on [Wallhaven]([W](https://wallhaven.cc/)) |
 | [BettercolorsEngine](https://github.com/N3ROO/BettercolorsEngine) 1.1.0 (published on maven central) | The Engine of the Minecraft mod [Bettercolors](https://github.com/N3ROO/Bettercolors). Can be used for anything else that requires an automatically generated GUI  |
 | [LatencyMod](https://github.com/N3ROO/LatencyMod) 0.1.0 | A Minecraft mod that displays your latency |
-| [AimAssistanceMod](https://github.com/N3ROO/AimAssistanceMod) 1.2.0 | A Minecraft mod that helps you aiming |
+| [Aim Assistance Mod](https://github.com/N3ROO/AimAssistanceMod) 1.2.0 | A Minecraft mod that helps you aiming |
 | [Bettercolors](https://github.com/N3ROO/Bettercolors) 7.3.0 | A Minecraft assistance mod
+| [Quick Search Mod](https://github.com/N3ROO/QuickSearchMod) | A Minecraft mod to search for items
+| [Horse Stats Mod](https://github.com/N3ROO/HorseStatsMod) | A Minecraft mod that shows the statistics of the ridden horse
 
-Currently maintaining AimAssistanceMod, Bettercolors & BettercolorsEngine.
+Currently maintaining Bettercolors & BettercolorsEngine, Quick Search Mod, Horse Stats Mod, and Aim Assistance Mod. Working on some new simple mods.
+
+<h3> The Simple Minecraft Mods Gallery </h3>
+
+<p style="text-align:center">
+  <a href="https://github.com/N3ROO/AimAssistanceMod"> <img src="https://github.com/N3ROO/AimAssistanceMod/raw/MC_1.16.3/.github/images/aimassistancemod.png"> </a>
+  <a href="https://github.com/N3ROO/HorseStatsMod"> <img src="https://github.com/N3ROO/HorseStatsMod/raw/MC_1.16.3/.github/resources/horsestatsmod.png"> </a>
+  <a href="https://github.com/N3ROO/QuickSearchMod"> <img src="https://github.com/N3ROO/QuickSearchMod/raw/MC_1.16.3/.github/resources/quicksearch.png"> </a>
+</p>
 
 ---
 

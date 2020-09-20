@@ -23,9 +23,9 @@ Currently maintaining Bettercolors & BettercolorsEngine, Quick Search Mod, Horse
 <h3> The Simple Minecraft Mods Gallery </h3>
 
 <p style="text-align:center">
-  <a href="https://github.com/N3ROO/AimAssistanceMod"> <img src="https://github.com/N3ROO/AimAssistanceMod/raw/MC_1.16.3/.github/images/aimassistancemod.png"> </a>
-  <a href="https://github.com/N3ROO/HorseStatsMod"> <img src="https://github.com/N3ROO/HorseStatsMod/raw/MC_1.16.3/.github/resources/horsestatsmod.png"> </a>
-  <a href="https://github.com/N3ROO/QuickSearchMod"> <img src="https://github.com/N3ROO/QuickSearchMod/raw/MC_1.16.3/.github/resources/quicksearch.png"> </a>
+  <a href="https://www.curseforge.com/minecraft/mc-mods/aim-assistance"> <img src="https://github.com/N3ROO/AimAssistanceMod/raw/MC_1.16.3/.github/images/aimassistancemod.png"> </a>
+  <a href="https://www.curseforge.com/minecraft/mc-mods/horse-statistics"> <img src="https://github.com/N3ROO/HorseStatsMod/raw/MC_1.16.3/.github/resources/horsestatsmod.png"> </a>
+  <a href="https://www.curseforge.com/minecraft/mc-mods/quick-search"> <img src="https://github.com/N3ROO/QuickSearchMod/raw/MC_1.16.3/.github/resources/quicksearch.png"> </a>
 </p>
 
 ---

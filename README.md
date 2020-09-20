@@ -15,12 +15,12 @@ I’ve got some experience in every domain of computer science <img src="https:/
 | [LatencyMod](https://github.com/N3ROO/LatencyMod) 0.1.0 | A Minecraft mod that displays your latency |
 | [Aim Assistance Mod](https://github.com/N3ROO/AimAssistanceMod) 1.2.0 | A Minecraft mod that helps you aiming |
 | [Bettercolors](https://github.com/N3ROO/Bettercolors) 7.3.0 | A Minecraft assistance mod
-| [Quick Search Mod](https://github.com/N3ROO/QuickSearchMod) | A Minecraft mod to search for items
-| [Horse Stats Mod](https://github.com/N3ROO/HorseStatsMod) | A Minecraft mod that shows the statistics of the ridden horse
+| [Quick Search Mod](https://github.com/N3ROO/QuickSearchMod) 1.0.0 | A Minecraft mod to search for items
+| [Horse Stats Mod](https://github.com/N3ROO/HorseStatsMod) 1.0.0 | A Minecraft mod that shows the statistics of the ridden horse
 
 Currently maintaining Bettercolors & BettercolorsEngine, Quick Search Mod, Horse Stats Mod, and Aim Assistance Mod. Working on some new simple mods.
 
-<h3> The Simple Minecraft Mods Gallery </h3>
+<h3> <img src="https://github.com/N3ROO/N3ROO/raw/master/curseforge_png.png" width="30"/> The Simple Minecraft Mods Gallery </h3>
 
 <p style="text-align:center">
   <a href="https://www.curseforge.com/minecraft/mc-mods/aim-assistance"> <img src="https://github.com/N3ROO/AimAssistanceMod/raw/MC_1.16.3/.github/images/aimassistancemod.png"> </a>

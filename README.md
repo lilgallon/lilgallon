@@ -17,8 +17,9 @@ I’ve got some experience in every domain of computer science <img src="https:/
 | [Bettercolors](https://github.com/N3ROO/Bettercolors) 7.3.0 | A Minecraft assistance mod
 | [Quick Search Mod](https://github.com/N3ROO/QuickSearchMod) 1.0.0 | A Minecraft mod to search for items
 | [Horse Stats Mod](https://github.com/N3ROO/HorseStatsMod) 1.0.0 | A Minecraft mod that shows the statistics of the ridden horse
+| [Anvil Tooltip Mod](https://github.com/N3ROO/AnvilTooltipMod) 1.0.0 | A Minecraft mod that shows the number of anvil uses as well as the repair cost of an item
 
-Currently maintaining Bettercolors & BettercolorsEngine, Quick Search Mod, Horse Stats Mod, and Aim Assistance Mod. Working on some new simple mods.
+Currently maintaining Bettercolors & BettercolorsEngine, Quick Search Mod, Horse Stats Mod, Anvil Tooltip Mod, and Aim Assistance Mod.
 
 <h3> <img src="https://github.com/N3ROO/N3ROO/raw/master/curseforge_png.png" width="30"/> The Simple Minecraft Mods Gallery </h3>
 
@@ -26,6 +27,7 @@ Currently maintaining Bettercolors & BettercolorsEngine, Quick Search Mod, Horse
   <a href="https://www.curseforge.com/minecraft/mc-mods/aim-assistance"> <img src="https://github.com/N3ROO/AimAssistanceMod/raw/MC_1.16.3/.github/images/aimassistancemod.png"> </a>
   <a href="https://www.curseforge.com/minecraft/mc-mods/horse-statistics"> <img src="https://github.com/N3ROO/HorseStatsMod/raw/MC_1.16.3/.github/resources/horsestatsmod.png"> </a>
   <a href="https://www.curseforge.com/minecraft/mc-mods/quick-search"> <img src="https://github.com/N3ROO/QuickSearchMod/raw/MC_1.16.3/.github/resources/quicksearch.png"> </a>
+  <a href="https://www.curseforge.com/minecraft/mc-mods/anvil-tooltip-mod"> <img src="https://github.com/N3ROO/AnvilTooltipMod/raw/MC_1.16.3/.github/resources/anviltooltipmod.png"> </a>
 </p>
 
 ---

@@ -36,11 +36,11 @@ Currently maintaining Bettercolors & BettercolorsEngine, Quick Search Mod, Horse
   <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com//N3ROO/M2_Genie_Logiciel/issues/1) in [N3ROO/M2_Genie_Logiciel](https://github.com//N3ROO/M2_Genie_Logiciel)
-2. 🗣 Commented on [#1](https://github.com//N3ROO/M2_Genie_Logiciel/issues/1) in [N3ROO/M2_Genie_Logiciel](https://github.com//N3ROO/M2_Genie_Logiciel)
-3. ❗️ Closed issue [#1](https://github.com//N3ROO/N3ROO/issues/1) in [N3ROO/N3ROO](https://github.com//N3ROO/N3ROO)
-4. 🗣 Commented on [#1](https://github.com//N3ROO/N3ROO/issues/1) in [N3ROO/N3ROO](https://github.com//N3ROO/N3ROO)
-5. 🎉 Merged PR [#3](https://github.com//N3ROO/AimAssistanceMod/pull/3) in [N3ROO/AimAssistanceMod](https://github.com//N3ROO/AimAssistanceMod)
+1. ❗️ Opened issue [#11](https://github.com//N3ROO/BettercolorsEngine/issues/11) in [N3ROO/BettercolorsEngine](https://github.com//N3ROO/BettercolorsEngine)
+2. ❗️ Closed issue [#10](https://github.com//N3ROO/BettercolorsEngine/issues/10) in [N3ROO/BettercolorsEngine](https://github.com//N3ROO/BettercolorsEngine)
+3. 🗣 Commented on [#10](https://github.com//N3ROO/BettercolorsEngine/issues/10) in [N3ROO/BettercolorsEngine](https://github.com//N3ROO/BettercolorsEngine)
+4. 🗣 Commented on [#10](https://github.com//N3ROO/BettercolorsEngine/issues/10) in [N3ROO/BettercolorsEngine](https://github.com//N3ROO/BettercolorsEngine)
+5. 🗣 Commented on [#10](https://github.com//N3ROO/BettercolorsEngine/issues/10) in [N3ROO/BettercolorsEngine](https://github.com//N3ROO/BettercolorsEngine)
 <!--END_SECTION:activity-->
 
 </details>

@@ -36,11 +36,11 @@ Currently maintaining Bettercolors & BettercolorsEngine, Quick Search Mod, Horse
   <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4790](https://github.com//sp614x/optifine/issues/4790) in [sp614x/optifine](https://github.com//sp614x/optifine)
-2. ❗️ Closed issue [#77](https://github.com//N3ROO/Bettercolors/issues/77) in [N3ROO/Bettercolors](https://github.com//N3ROO/Bettercolors)
-3. 🗣 Commented on [#77](https://github.com//N3ROO/Bettercolors/issues/77) in [N3ROO/Bettercolors](https://github.com//N3ROO/Bettercolors)
-4. ❗️ Opened issue [#12](https://github.com//N3ROO/BettercolorsEngine/issues/12) in [N3ROO/BettercolorsEngine](https://github.com//N3ROO/BettercolorsEngine)
-5. ❗️ Opened issue [#11](https://github.com//N3ROO/BettercolorsEngine/issues/11) in [N3ROO/BettercolorsEngine](https://github.com//N3ROO/BettercolorsEngine)
+1. 🗣 Commented on [#4790](https://github.com/sp614x/optifine/issues/4790) in [sp614x/optifine](https://github.com/sp614x/optifine)
+2. ❗️ Closed issue [#77](https://github.com/N3ROO/Bettercolors/issues/77) in [N3ROO/Bettercolors](https://github.com/N3ROO/Bettercolors)
+3. 🗣 Commented on [#77](https://github.com/N3ROO/Bettercolors/issues/77) in [N3ROO/Bettercolors](https://github.com/N3ROO/Bettercolors)
+4. ❗️ Opened issue [#12](https://github.com/N3ROO/BettercolorsEngine/issues/12) in [N3ROO/BettercolorsEngine](https://github.com/N3ROO/BettercolorsEngine)
+5. ❗️ Opened issue [#11](https://github.com/N3ROO/BettercolorsEngine/issues/11) in [N3ROO/BettercolorsEngine](https://github.com/N3ROO/BettercolorsEngine)
 <!--END_SECTION:activity-->
 
 </details>

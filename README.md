@@ -36,11 +36,11 @@ Currently maintaining Bettercolors & BettercolorsEngine, Quick Search Mod, Horse
   <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/N3ROO/QuickSearchMod/pull/1) in [N3ROO/QuickSearchMod](https://github.com/N3ROO/QuickSearchMod)
-2. 💪 Opened PR [#1](https://github.com/N3ROO/QuickSearchMod/pull/1) in [N3ROO/QuickSearchMod](https://github.com/N3ROO/QuickSearchMod)
-3. 🎉 Merged PR [#4](https://github.com/N3ROO/AimAssistanceMod/pull/4) in [N3ROO/AimAssistanceMod](https://github.com/N3ROO/AimAssistanceMod)
-4. 💪 Opened PR [#4](https://github.com/N3ROO/AimAssistanceMod/pull/4) in [N3ROO/AimAssistanceMod](https://github.com/N3ROO/AimAssistanceMod)
-5. 🗣 Commented on [#4790](https://github.com/sp614x/optifine/issues/4790) in [sp614x/optifine](https://github.com/sp614x/optifine)
+1. 🗣 Commented on [#1681](https://github.com/Glitchfiend/BiomesOPlenty/issues/1681) in [Glitchfiend/BiomesOPlenty](https://github.com/Glitchfiend/BiomesOPlenty)
+2. 🎉 Merged PR [#1](https://github.com/N3ROO/QuickSearchMod/pull/1) in [N3ROO/QuickSearchMod](https://github.com/N3ROO/QuickSearchMod)
+3. 💪 Opened PR [#1](https://github.com/N3ROO/QuickSearchMod/pull/1) in [N3ROO/QuickSearchMod](https://github.com/N3ROO/QuickSearchMod)
+4. 🎉 Merged PR [#4](https://github.com/N3ROO/AimAssistanceMod/pull/4) in [N3ROO/AimAssistanceMod](https://github.com/N3ROO/AimAssistanceMod)
+5. 💪 Opened PR [#4](https://github.com/N3ROO/AimAssistanceMod/pull/4) in [N3ROO/AimAssistanceMod](https://github.com/N3ROO/AimAssistanceMod)
 <!--END_SECTION:activity-->
 
 </details>

@@ -36,11 +36,11 @@ Currently maintaining Bettercolors & BettercolorsEngine, Quick Search Mod, Horse
   <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#11](https://github.com/N3ROO/M2-Workshops/issues/11) in [N3ROO/M2-Workshops](https://github.com/N3ROO/M2-Workshops)
-2. ❗️ Opened issue [#10](https://github.com/N3ROO/M2-Workshops/issues/10) in [N3ROO/M2-Workshops](https://github.com/N3ROO/M2-Workshops)
-3. ❗️ Opened issue [#9](https://github.com/N3ROO/M2-Workshops/issues/9) in [N3ROO/M2-Workshops](https://github.com/N3ROO/M2-Workshops)
-4. ❗️ Opened issue [#8](https://github.com/N3ROO/M2-Workshops/issues/8) in [N3ROO/M2-Workshops](https://github.com/N3ROO/M2-Workshops)
-5. ❗️ Opened issue [#7](https://github.com/N3ROO/M2-Workshops/issues/7) in [N3ROO/M2-Workshops](https://github.com/N3ROO/M2-Workshops)
+1. ❗️ Opened issue [#12](https://github.com/N3ROO/M2-Workshops/issues/12) in [N3ROO/M2-Workshops](https://github.com/N3ROO/M2-Workshops)
+2. ❗️ Opened issue [#11](https://github.com/N3ROO/M2-Workshops/issues/11) in [N3ROO/M2-Workshops](https://github.com/N3ROO/M2-Workshops)
+3. ❗️ Opened issue [#10](https://github.com/N3ROO/M2-Workshops/issues/10) in [N3ROO/M2-Workshops](https://github.com/N3ROO/M2-Workshops)
+4. ❗️ Opened issue [#9](https://github.com/N3ROO/M2-Workshops/issues/9) in [N3ROO/M2-Workshops](https://github.com/N3ROO/M2-Workshops)
+5. ❗️ Opened issue [#8](https://github.com/N3ROO/M2-Workshops/issues/8) in [N3ROO/M2-Workshops](https://github.com/N3ROO/M2-Workshops)
 <!--END_SECTION:activity-->
 
 </details>

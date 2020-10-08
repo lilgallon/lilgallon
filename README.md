@@ -36,11 +36,11 @@ Currently maintaining Bettercolors & BettercolorsEngine, Quick Search Mod, Horse
   <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1681](https://github.com/Glitchfiend/BiomesOPlenty/issues/1681) in [Glitchfiend/BiomesOPlenty](https://github.com/Glitchfiend/BiomesOPlenty)
-2. 🎉 Merged PR [#1](https://github.com/N3ROO/QuickSearchMod/pull/1) in [N3ROO/QuickSearchMod](https://github.com/N3ROO/QuickSearchMod)
-3. 💪 Opened PR [#1](https://github.com/N3ROO/QuickSearchMod/pull/1) in [N3ROO/QuickSearchMod](https://github.com/N3ROO/QuickSearchMod)
-4. 🎉 Merged PR [#4](https://github.com/N3ROO/AimAssistanceMod/pull/4) in [N3ROO/AimAssistanceMod](https://github.com/N3ROO/AimAssistanceMod)
-5. 💪 Opened PR [#4](https://github.com/N3ROO/AimAssistanceMod/pull/4) in [N3ROO/AimAssistanceMod](https://github.com/N3ROO/AimAssistanceMod)
+1. ❗️ Opened issue [#8](https://github.com/N3ROO/M2-Workshops/issues/8) in [N3ROO/M2-Workshops](https://github.com/N3ROO/M2-Workshops)
+2. ❗️ Opened issue [#7](https://github.com/N3ROO/M2-Workshops/issues/7) in [N3ROO/M2-Workshops](https://github.com/N3ROO/M2-Workshops)
+3. ❗️ Opened issue [#6](https://github.com/N3ROO/M2-Workshops/issues/6) in [N3ROO/M2-Workshops](https://github.com/N3ROO/M2-Workshops)
+4. ❗️ Opened issue [#5](https://github.com/N3ROO/M2-Workshops/issues/5) in [N3ROO/M2-Workshops](https://github.com/N3ROO/M2-Workshops)
+5. ❗️ Opened issue [#4](https://github.com/N3ROO/M2-Workshops/issues/4) in [N3ROO/M2-Workshops](https://github.com/N3ROO/M2-Workshops)
 <!--END_SECTION:activity-->
 
 </details>

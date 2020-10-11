@@ -36,11 +36,11 @@ Currently maintaining Bettercolors & BettercolorsEngine, Quick Search Mod, Horse
   <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/N3ROO/HorseStatsMod/pull/1) in [N3ROO/HorseStatsMod](https://github.com/N3ROO/HorseStatsMod)
-2. 💪 Opened PR [#1](https://github.com/N3ROO/HorseStatsMod/pull/1) in [N3ROO/HorseStatsMod](https://github.com/N3ROO/HorseStatsMod)
-3. 💪 Opened PR [#12](https://github.com/jleveau/M2-Workshops/pull/12) in [jleveau/M2-Workshops](https://github.com/jleveau/M2-Workshops)
-4. ❗️ Closed issue [#17](https://github.com/N3ROO/M2-Workshops/issues/17) in [N3ROO/M2-Workshops](https://github.com/N3ROO/M2-Workshops)
-5. ❗️ Closed issue [#15](https://github.com/N3ROO/M2-Workshops/issues/15) in [N3ROO/M2-Workshops](https://github.com/N3ROO/M2-Workshops)
+1. 🎉 Merged PR [#1](https://github.com/N3ROO/CoolMeteo/pull/1) in [N3ROO/CoolMeteo](https://github.com/N3ROO/CoolMeteo)
+2. 💪 Opened PR [#1](https://github.com/N3ROO/CoolMeteo/pull/1) in [N3ROO/CoolMeteo](https://github.com/N3ROO/CoolMeteo)
+3. 🎉 Merged PR [#1](https://github.com/N3ROO/HorseStatsMod/pull/1) in [N3ROO/HorseStatsMod](https://github.com/N3ROO/HorseStatsMod)
+4. 💪 Opened PR [#1](https://github.com/N3ROO/HorseStatsMod/pull/1) in [N3ROO/HorseStatsMod](https://github.com/N3ROO/HorseStatsMod)
+5. 💪 Opened PR [#12](https://github.com/jleveau/M2-Workshops/pull/12) in [jleveau/M2-Workshops](https://github.com/jleveau/M2-Workshops)
 <!--END_SECTION:activity-->
 
 </details>

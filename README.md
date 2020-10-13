@@ -6,7 +6,8 @@ I'm a senior student specialized in Software Engineering at the <img src="https:
 
 I’ve got some experience in every domain of computer science <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="23">. Lately, I've been studying reverse engineering and C++ (in depth). I update a [C++ cheatsheet](https://github.com/N3ROO/Cheatsheets/blob/master/cpp.md) during the process.
 
-<h3> Recent releases </h3>
+<details>
+  <summary><b>Recent Releases</b></summary>
 
 | 🎁 Project | 📝 Description |
 |----|----|
@@ -19,7 +20,9 @@ I’ve got some experience in every domain of computer science <img src="https:/
 | [Horse Stats Mod](https://github.com/N3ROO/HorseStatsMod) 1.3.0 | A Minecraft mod that shows the statistics of the ridden horse
 | [Anvil Tooltip Mod](https://github.com/N3ROO/AnvilTooltipMod) 1.0.0 | A Minecraft mod that shows the number of anvil uses as well as the repair cost of an item
 
-Currently Quick Search Mod, Horse Stats Mod, Anvil Tooltip Mod, and Aim Assistance Mod.
+</details>
+
+Currently maintaining Quick Search Mod, Horse Stats Mod, Anvil Tooltip Mod, and Aim Assistance Mod.
 
 <h3> <img src="https://github.com/N3ROO/N3ROO/raw/master/curseforge_png.png" width="30"/> The Simple Minecraft Mods Gallery </h3>
 

@@ -33,6 +33,8 @@ Currently maintaining Quick Search Mod, Horse Stats Mod, Anvil Tooltip Mod, and 
   <a href="https://www.curseforge.com/minecraft/mc-mods/anvil-tooltip-mod"> <img src="https://github.com/N3ROO/AnvilTooltipMod/raw/MC_1.16.3/.github/resources/anviltooltipmod.png"> </a>
 </p>
 
+**Total downloads: more than 2k**
+
 ---
 
 <details>

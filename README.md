@@ -41,11 +41,11 @@ Currently maintaining Quick Search Mod, Horse Stats Mod, Anvil Tooltip Mod, and 
   <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#119](https://github.com/MrCrayfish/Controllable/issues/119) in [MrCrayfish/Controllable](https://github.com/MrCrayfish/Controllable)
-2. 🗣 Commented on [#12](https://github.com/jleveau/M2-Workshops/issues/12) in [jleveau/M2-Workshops](https://github.com/jleveau/M2-Workshops)
-3. 🎉 Merged PR [#1](https://github.com/N3ROO/CoolMeteo/pull/1) in [N3ROO/CoolMeteo](https://github.com/N3ROO/CoolMeteo)
-4. 💪 Opened PR [#1](https://github.com/N3ROO/CoolMeteo/pull/1) in [N3ROO/CoolMeteo](https://github.com/N3ROO/CoolMeteo)
-5. 🎉 Merged PR [#1](https://github.com/N3ROO/HorseStatsMod/pull/1) in [N3ROO/HorseStatsMod](https://github.com/N3ROO/HorseStatsMod)
+1. 🎉 Merged PR [#5](https://github.com/N3ROO/AimAssistanceMod/pull/5) in [N3ROO/AimAssistanceMod](https://github.com/N3ROO/AimAssistanceMod)
+2. 💪 Opened PR [#5](https://github.com/N3ROO/AimAssistanceMod/pull/5) in [N3ROO/AimAssistanceMod](https://github.com/N3ROO/AimAssistanceMod)
+3. ❗️ Opened issue [#119](https://github.com/MrCrayfish/Controllable/issues/119) in [MrCrayfish/Controllable](https://github.com/MrCrayfish/Controllable)
+4. 🗣 Commented on [#12](https://github.com/jleveau/M2-Workshops/issues/12) in [jleveau/M2-Workshops](https://github.com/jleveau/M2-Workshops)
+5. 🎉 Merged PR [#1](https://github.com/N3ROO/CoolMeteo/pull/1) in [N3ROO/CoolMeteo](https://github.com/N3ROO/CoolMeteo)
 <!--END_SECTION:activity-->
 
 </details>

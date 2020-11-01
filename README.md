@@ -41,11 +41,11 @@ Currently maintaining Quick Search Mod, Horse Stats Mod, Anvil Tooltip Mod, and 
   <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/N3ROO/AimAssistanceMod/pull/6) in [N3ROO/AimAssistanceMod](https://github.com/N3ROO/AimAssistanceMod)
-2. 💪 Opened PR [#6](https://github.com/N3ROO/AimAssistanceMod/pull/6) in [N3ROO/AimAssistanceMod](https://github.com/N3ROO/AimAssistanceMod)
-3. 🎉 Merged PR [#5](https://github.com/N3ROO/AimAssistanceMod/pull/5) in [N3ROO/AimAssistanceMod](https://github.com/N3ROO/AimAssistanceMod)
-4. 💪 Opened PR [#5](https://github.com/N3ROO/AimAssistanceMod/pull/5) in [N3ROO/AimAssistanceMod](https://github.com/N3ROO/AimAssistanceMod)
-5. ❗️ Opened issue [#119](https://github.com/MrCrayfish/Controllable/issues/119) in [MrCrayfish/Controllable](https://github.com/MrCrayfish/Controllable)
+1. 🎉 Merged PR [#1](https://github.com/N3ROO/BLE-Controller/pull/1) in [N3ROO/BLE-Controller](https://github.com/N3ROO/BLE-Controller)
+2. 💪 Opened PR [#1](https://github.com/N3ROO/BLE-Controller/pull/1) in [N3ROO/BLE-Controller](https://github.com/N3ROO/BLE-Controller)
+3. 🎉 Merged PR [#6](https://github.com/N3ROO/AimAssistanceMod/pull/6) in [N3ROO/AimAssistanceMod](https://github.com/N3ROO/AimAssistanceMod)
+4. 💪 Opened PR [#6](https://github.com/N3ROO/AimAssistanceMod/pull/6) in [N3ROO/AimAssistanceMod](https://github.com/N3ROO/AimAssistanceMod)
+5. 🎉 Merged PR [#5](https://github.com/N3ROO/AimAssistanceMod/pull/5) in [N3ROO/AimAssistanceMod](https://github.com/N3ROO/AimAssistanceMod)
 <!--END_SECTION:activity-->
 
 </details>

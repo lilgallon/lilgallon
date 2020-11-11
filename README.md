@@ -17,8 +17,9 @@ I’ve got some experience in every domain of computer science <img src="https:/
 | [Aim Assistance Mod](https://github.com/N3ROO/AimAssistanceMod) 1.3.0 | A Minecraft mod that helps you aiming |
 | [Bettercolors](https://github.com/N3ROO/Bettercolors) 7.3.0 | A Minecraft assistance mod
 | [Quick Search Mod](https://github.com/N3ROO/QuickSearchMod) 1.0.0 | A Minecraft mod to search for items
-| [Horse Stats Mod](https://github.com/N3ROO/HorseStatsMod) 1.3.0 | A Minecraft mod that shows the statistics of the ridden horse
+| [Horse Stats Mod](https://github.com/N3ROO/HorseStatsMod) 1.3.1 | A Minecraft mod that shows the statistics of the ridden horse
 | [Anvil Tooltip Mod](https://github.com/N3ROO/AnvilTooltipMod) 1.0.0 | A Minecraft mod that shows the number of anvil uses as well as the repair cost of an item
+| [Dynamic Led Strips](https://github.com/N3ROO/DynamicLedStrips) 0.1.0 | A program that takes control of cheap Led Strips controllers to make them look expensive
 
 </details>
 

@@ -23,7 +23,11 @@ I’ve got some experience in every domain of computer science <img src="https:/
 
 </details>
 
-Currently maintaining Quick Search Mod, Horse Stats Mod, Anvil Tooltip Mod, and Aim Assistance Mod.
+Currently maintaining Quick Search Mod, Horse Stats Mod, Anvil Tooltip Mod, Aim Assistance Mod, and Dynamic Led Strips.
+
+<h3> <img width=30 src="https://github.com/N3ROO/DynamicLedStrips/raw/main/.github/bls_icon.png"> Latest release </h3>
+                                                                                       
+My latest work, a C# software that connects LED Strips to your computer using Bluetooth LE. The color and brightness then change according to your activity. [Dynamic Led Strips](https://github.com/N3ROO/DynamicLedStrips)
 
 <h3> <img src="https://github.com/N3ROO/N3ROO/raw/master/curseforge_png.png" width="30"/> The Simple Minecraft Mods Gallery </h3>
 

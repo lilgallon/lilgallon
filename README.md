@@ -46,11 +46,11 @@ My latest work, a C# software that connects LED Strips to your computer using Bl
   <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/N3ROO/HorseStatsMod/pull/3) in [N3ROO/HorseStatsMod](https://github.com/N3ROO/HorseStatsMod)
-2. 💪 Opened PR [#3](https://github.com/N3ROO/HorseStatsMod/pull/3) in [N3ROO/HorseStatsMod](https://github.com/N3ROO/HorseStatsMod)
-3. 🎉 Merged PR [#2](https://github.com/N3ROO/HorseStatsMod/pull/2) in [N3ROO/HorseStatsMod](https://github.com/N3ROO/HorseStatsMod)
-4. 💪 Opened PR [#2](https://github.com/N3ROO/HorseStatsMod/pull/2) in [N3ROO/HorseStatsMod](https://github.com/N3ROO/HorseStatsMod)
-5. 🎉 Merged PR [#6](https://github.com/N3ROO/AimAssistanceMod/pull/6) in [N3ROO/AimAssistanceMod](https://github.com/N3ROO/AimAssistanceMod)
+1. ❗️ Opened issue [#11](https://github.com/sekelsta/horse-colors/issues/11) in [sekelsta/horse-colors](https://github.com/sekelsta/horse-colors)
+2. 🎉 Merged PR [#3](https://github.com/N3ROO/HorseStatsMod/pull/3) in [N3ROO/HorseStatsMod](https://github.com/N3ROO/HorseStatsMod)
+3. 💪 Opened PR [#3](https://github.com/N3ROO/HorseStatsMod/pull/3) in [N3ROO/HorseStatsMod](https://github.com/N3ROO/HorseStatsMod)
+4. 🎉 Merged PR [#2](https://github.com/N3ROO/HorseStatsMod/pull/2) in [N3ROO/HorseStatsMod](https://github.com/N3ROO/HorseStatsMod)
+5. 💪 Opened PR [#2](https://github.com/N3ROO/HorseStatsMod/pull/2) in [N3ROO/HorseStatsMod](https://github.com/N3ROO/HorseStatsMod)
 <!--END_SECTION:activity-->
 
 </details>

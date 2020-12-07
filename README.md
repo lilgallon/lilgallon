@@ -65,6 +65,41 @@ My latest work, a C# software that connects LED Strips to your computer using Bl
 
 </details>
 
+<details>
+  <summary>:zap: Even more statistics (7 last days)</summary>
+<br>
+
+<img src="https://wakatime.com/share/@3c59958d-a444-4018-bacc-6e46cccf8835/d3b8039d-4b10-4854-9ba4-75f55e51745b.svg" width=500/>
+
+<img src="https://wakatime.com/share/@3c59958d-a444-4018-bacc-6e46cccf8835/525f0563-4377-4a5a-b27a-18d6eb21f33f.svg" width=500/>
+
+<img src="https://wakatime.com/share/@3c59958d-a444-4018-bacc-6e46cccf8835/54eebe48-4f46-407b-93ac-d4e9db98ce8e.svg" width=500/>
+
+<img src="https://wakatime.com/share/@3c59958d-a444-4018-bacc-6e46cccf8835/f5524270-6093-4871-8575-a23a40e7da56.svg" width=500/>
+
+*Yeah, I like Windows*
+
+</details>
+
+
+<details>
+  <summary>:zap: EVEN MORE statistics (since September 2020)</summary>
+<br>
+
+<img src="https://wakatime.com/share/@3c59958d-a444-4018-bacc-6e46cccf8835/11852978-667b-4618-a12e-c32ebee99758.svg" width=500/>
+
+<img src="https://wakatime.com/share/@3c59958d-a444-4018-bacc-6e46cccf8835/86bfa371-90aa-4fb9-ac39-16f4ba1489a3.svg" width=500/>
+
+<img src="https://wakatime.com/share/@3c59958d-a444-4018-bacc-6e46cccf8835/6d1a8fa9-ff2e-4a1e-beb7-aa2d30e195bc.svg" width=500/>
+
+<img src="https://wakatime.com/share/@3c59958d-a444-4018-bacc-6e46cccf8835/de79b7cf-5162-4919-9b96-8a921a34ca61.svg" width=500/>
+
+*Yeah, I like Windows*
+
+</details>
+
+
+
 ---
 
 

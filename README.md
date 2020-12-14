@@ -46,11 +46,11 @@ My latest work, a C# software that connects LED Strips to your computer using Bl
   <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#80](https://github.com/N3ROO/Bettercolors/issues/80) in [N3ROO/Bettercolors](https://github.com/N3ROO/Bettercolors)
-2. 🗣 Commented on [#11](https://github.com/sekelsta/horse-colors/issues/11) in [sekelsta/horse-colors](https://github.com/sekelsta/horse-colors)
-3. ❗️ Closed issue [#5](https://github.com/N3ROO/HorseStatsMod/issues/5) in [N3ROO/HorseStatsMod](https://github.com/N3ROO/HorseStatsMod)
-4. 🗣 Commented on [#5](https://github.com/N3ROO/HorseStatsMod/issues/5) in [N3ROO/HorseStatsMod](https://github.com/N3ROO/HorseStatsMod)
-5. 🗣 Commented on [#5](https://github.com/N3ROO/HorseStatsMod/issues/5) in [N3ROO/HorseStatsMod](https://github.com/N3ROO/HorseStatsMod)
+1. 🎉 Merged PR [#13](https://github.com/N3ROO/BettercolorsEngine/pull/13) in [N3ROO/BettercolorsEngine](https://github.com/N3ROO/BettercolorsEngine)
+2. ❗️ Closed issue [#12](https://github.com/N3ROO/BettercolorsEngine/issues/12) in [N3ROO/BettercolorsEngine](https://github.com/N3ROO/BettercolorsEngine)
+3. ❗️ Closed issue [#11](https://github.com/N3ROO/BettercolorsEngine/issues/11) in [N3ROO/BettercolorsEngine](https://github.com/N3ROO/BettercolorsEngine)
+4. 💪 Opened PR [#13](https://github.com/N3ROO/BettercolorsEngine/pull/13) in [N3ROO/BettercolorsEngine](https://github.com/N3ROO/BettercolorsEngine)
+5. 🗣 Commented on [#80](https://github.com/N3ROO/Bettercolors/issues/80) in [N3ROO/Bettercolors](https://github.com/N3ROO/Bettercolors)
 <!--END_SECTION:activity-->
 
 </details>

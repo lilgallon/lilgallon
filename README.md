@@ -46,11 +46,11 @@ My latest work, a C# software that connects LED Strips to your computer using Bl
   <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#84](https://github.com/N3ROO/Bettercolors/issues/84) in [N3ROO/Bettercolors](https://github.com/N3ROO/Bettercolors)
-2. 🗣 Commented on [#83](https://github.com/N3ROO/Bettercolors/issues/83) in [N3ROO/Bettercolors](https://github.com/N3ROO/Bettercolors)
-3. 🎉 Merged PR [#82](https://github.com/N3ROO/Bettercolors/pull/82) in [N3ROO/Bettercolors](https://github.com/N3ROO/Bettercolors)
-4. 💪 Opened PR [#82](https://github.com/N3ROO/Bettercolors/pull/82) in [N3ROO/Bettercolors](https://github.com/N3ROO/Bettercolors)
-5. ❗️ Closed issue [#81](https://github.com/N3ROO/Bettercolors/issues/81) in [N3ROO/Bettercolors](https://github.com/N3ROO/Bettercolors)
+1. 🗣 Commented on [#85](https://github.com/N3ROO/Bettercolors/issues/85) in [N3ROO/Bettercolors](https://github.com/N3ROO/Bettercolors)
+2. 🗣 Commented on [#84](https://github.com/N3ROO/Bettercolors/issues/84) in [N3ROO/Bettercolors](https://github.com/N3ROO/Bettercolors)
+3. 🗣 Commented on [#83](https://github.com/N3ROO/Bettercolors/issues/83) in [N3ROO/Bettercolors](https://github.com/N3ROO/Bettercolors)
+4. 🎉 Merged PR [#82](https://github.com/N3ROO/Bettercolors/pull/82) in [N3ROO/Bettercolors](https://github.com/N3ROO/Bettercolors)
+5. 💪 Opened PR [#82](https://github.com/N3ROO/Bettercolors/pull/82) in [N3ROO/Bettercolors](https://github.com/N3ROO/Bettercolors)
 <!--END_SECTION:activity-->
 
 </details>

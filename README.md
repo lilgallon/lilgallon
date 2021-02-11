@@ -46,11 +46,11 @@ My latest work, a C# software that connects LED Strips to your computer using Bl
   <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#86](https://github.com/N3ROO/Bettercolors/issues/86) in [N3ROO/Bettercolors](https://github.com/N3ROO/Bettercolors)
-2. 🗣 Commented on [#86](https://github.com/N3ROO/Bettercolors/issues/86) in [N3ROO/Bettercolors](https://github.com/N3ROO/Bettercolors)
-3. 🗣 Commented on [#254](https://github.com/nginx-proxy/nginx-proxy/issues/254) in [nginx-proxy/nginx-proxy](https://github.com/nginx-proxy/nginx-proxy)
-4. 🗣 Commented on [#85](https://github.com/N3ROO/Bettercolors/issues/85) in [N3ROO/Bettercolors](https://github.com/N3ROO/Bettercolors)
-5. 🗣 Commented on [#84](https://github.com/N3ROO/Bettercolors/issues/84) in [N3ROO/Bettercolors](https://github.com/N3ROO/Bettercolors)
+1. ❗️ Closed issue [#88](https://github.com/N3ROO/Bettercolors/issues/88) in [N3ROO/Bettercolors](https://github.com/N3ROO/Bettercolors)
+2. 🗣 Commented on [#88](https://github.com/N3ROO/Bettercolors/issues/88) in [N3ROO/Bettercolors](https://github.com/N3ROO/Bettercolors)
+3. 🗣 Commented on [#88](https://github.com/N3ROO/Bettercolors/issues/88) in [N3ROO/Bettercolors](https://github.com/N3ROO/Bettercolors)
+4. 🗣 Commented on [#87](https://github.com/N3ROO/Bettercolors/issues/87) in [N3ROO/Bettercolors](https://github.com/N3ROO/Bettercolors)
+5. 🗣 Commented on [#86](https://github.com/N3ROO/Bettercolors/issues/86) in [N3ROO/Bettercolors](https://github.com/N3ROO/Bettercolors)
 <!--END_SECTION:activity-->
 
 </details>

@@ -46,11 +46,11 @@ My latest work, a C# software that connects LED Strips to your computer using Bl
   <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#89](https://github.com/N3ROO/Bettercolors/issues/89) in [N3ROO/Bettercolors](https://github.com/N3ROO/Bettercolors)
-2. ❗️ Opened issue [#90](https://github.com/N3ROO/Bettercolors/issues/90) in [N3ROO/Bettercolors](https://github.com/N3ROO/Bettercolors)
+1. 🎉 Merged PR [#1](https://github.com/N3ROO/dofus-tools/pull/1) in [N3ROO/dofus-tools](https://github.com/N3ROO/dofus-tools)
+2. 💪 Opened PR [#1](https://github.com/N3ROO/dofus-tools/pull/1) in [N3ROO/dofus-tools](https://github.com/N3ROO/dofus-tools)
 3. 🗣 Commented on [#89](https://github.com/N3ROO/Bettercolors/issues/89) in [N3ROO/Bettercolors](https://github.com/N3ROO/Bettercolors)
-4. 🗣 Commented on [#6](https://github.com/N3ROO/HorseStatsMod/issues/6) in [N3ROO/HorseStatsMod](https://github.com/N3ROO/HorseStatsMod)
-5. ❗️ Closed issue [#72](https://github.com/N3ROO/Bettercolors/issues/72) in [N3ROO/Bettercolors](https://github.com/N3ROO/Bettercolors)
+4. ❗️ Opened issue [#90](https://github.com/N3ROO/Bettercolors/issues/90) in [N3ROO/Bettercolors](https://github.com/N3ROO/Bettercolors)
+5. 🗣 Commented on [#89](https://github.com/N3ROO/Bettercolors/issues/89) in [N3ROO/Bettercolors](https://github.com/N3ROO/Bettercolors)
 <!--END_SECTION:activity-->
 
 </details>

@@ -48,9 +48,9 @@ My latest work, a C# software that connects LED Strips to your computer using Bl
 <!--START_SECTION:activity-->
 1. ❗️ Closed issue [#6](https://github.com/N3ROO/HorseStatsMod/issues/6) in [N3ROO/HorseStatsMod](https://github.com/N3ROO/HorseStatsMod)
 2. 🗣 Commented on [#6](https://github.com/N3ROO/HorseStatsMod/issues/6) in [N3ROO/HorseStatsMod](https://github.com/N3ROO/HorseStatsMod)
-3. 🎉 Merged PR [#1](https://github.com/N3ROO/dofus-tools/pull/1) in [N3ROO/dofus-tools](https://github.com/N3ROO/dofus-tools)
-4. 💪 Opened PR [#1](https://github.com/N3ROO/dofus-tools/pull/1) in [N3ROO/dofus-tools](https://github.com/N3ROO/dofus-tools)
-5. 🗣 Commented on [#89](https://github.com/N3ROO/Bettercolors/issues/89) in [N3ROO/Bettercolors](https://github.com/N3ROO/Bettercolors)
+3. ❗️ Reopened issue [#6](https://github.com/N3ROO/HorseStatsMod/issues/6) in [N3ROO/HorseStatsMod](https://github.com/N3ROO/HorseStatsMod)
+4. 🗣 Commented on [#6](https://github.com/N3ROO/HorseStatsMod/issues/6) in [N3ROO/HorseStatsMod](https://github.com/N3ROO/HorseStatsMod)
+5. ❗️ Closed issue [#6](https://github.com/N3ROO/HorseStatsMod/issues/6) in [N3ROO/HorseStatsMod](https://github.com/N3ROO/HorseStatsMod)
 <!--END_SECTION:activity-->
 
 </details>

@@ -33,7 +33,7 @@ My latest work, a C# software that connects LED Strips to your computer using Bl
 
 <p style="text-align:center">
   <a href="https://www.curseforge.com/minecraft/mc-mods/aim-assistance"> <img src="https://github.com/N3ROO/AimAssistanceMod/raw/MC_1.16.3/.github/images/aimassistancemod.png"> </a>
-  <a href="https://www.curseforge.com/minecraft/mc-mods/horse-statistics"> <img src="https://github.com/N3ROO/HorseStatsMod/raw/MC_1.16.3/.github/resources/horsestatsmod.png"> </a>
+  <a href="https://www.curseforge.com/minecraft/mc-mods/horse-statistics"> <img src="https://github.com/N3ROO/HorseStatsMod/raw/MC_1.16.x/.github/resources/horsestatsmod.png"> </a>
   <a href="https://www.curseforge.com/minecraft/mc-mods/quick-search"> <img src="https://github.com/N3ROO/QuickSearchMod/raw/MC_1.16.3/.github/resources/quicksearch.png"> </a>
   <a href="https://www.curseforge.com/minecraft/mc-mods/anvil-tooltip-mod"> <img src="https://github.com/N3ROO/AnvilTooltipMod/raw/MC_1.16.3/.github/resources/anviltooltipmod.png"> </a>
 </p>

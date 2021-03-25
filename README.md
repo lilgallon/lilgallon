@@ -4,7 +4,7 @@ I'm a senior student specialized in Software Engineering at the <img src="https:
 
 <h3> Skills </h3>
 
-I’ve got some experience in every domain of computer science <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="23">. I am currently working on my final project (which is hosted on gitlab, that's why I'm not active on github atm). I don't have much time to spend on my personal projects for now.
+I’ve got some experience in every domain of computer science <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="23">. Update March, 25th: I am FINALLY FREE FROM COLLEGE (almost)!! I can finally spend some time on my personal projects while doing my intership.
 
 <details>
   <summary><b>Recent Releases</b></summary>

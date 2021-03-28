@@ -46,11 +46,11 @@ My latest work, a C# software that connects LED Strips to your computer using Bl
   <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/N3ROO/HorseStatsMod/pull/7) in [N3ROO/HorseStatsMod](https://github.com/N3ROO/HorseStatsMod)
-2. 🗣 Commented on [#7](https://github.com/N3ROO/HorseStatsMod/issues/7) in [N3ROO/HorseStatsMod](https://github.com/N3ROO/HorseStatsMod)
-3. ❗️ Closed issue [#6](https://github.com/N3ROO/HorseStatsMod/issues/6) in [N3ROO/HorseStatsMod](https://github.com/N3ROO/HorseStatsMod)
-4. 🗣 Commented on [#6](https://github.com/N3ROO/HorseStatsMod/issues/6) in [N3ROO/HorseStatsMod](https://github.com/N3ROO/HorseStatsMod)
-5. ❗️ Reopened issue [#6](https://github.com/N3ROO/HorseStatsMod/issues/6) in [N3ROO/HorseStatsMod](https://github.com/N3ROO/HorseStatsMod)
+1. ❗️ Opened issue [#8](https://github.com/N3ROO/HorseStatsMod/issues/8) in [N3ROO/HorseStatsMod](https://github.com/N3ROO/HorseStatsMod)
+2. 🎉 Merged PR [#7](https://github.com/N3ROO/HorseStatsMod/pull/7) in [N3ROO/HorseStatsMod](https://github.com/N3ROO/HorseStatsMod)
+3. 🗣 Commented on [#7](https://github.com/N3ROO/HorseStatsMod/issues/7) in [N3ROO/HorseStatsMod](https://github.com/N3ROO/HorseStatsMod)
+4. ❗️ Closed issue [#6](https://github.com/N3ROO/HorseStatsMod/issues/6) in [N3ROO/HorseStatsMod](https://github.com/N3ROO/HorseStatsMod)
+5. 🗣 Commented on [#6](https://github.com/N3ROO/HorseStatsMod/issues/6) in [N3ROO/HorseStatsMod](https://github.com/N3ROO/HorseStatsMod)
 <!--END_SECTION:activity-->
 
 </details>

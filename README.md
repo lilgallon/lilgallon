@@ -1,10 +1,12 @@
 <h1> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi there, I'm Lilian - aka <img src="https://github.com/lilgallon/lilgallon/raw/master/nero_animated_small_transparent_crop.gif" width="100"/> </h1>
 
-I'm a senior student specialized in Software Engineering at the <img src="https://image.flaticon.com/icons/svg/197/197560.svg" width="13"/> University of Bordeaux. Also studied at the <img src="https://image.flaticon.com/icons/svg/197/197484.svg" width="13"/> University of California, Santa Cruz.
+I'm a senior student specialized in Software Engineering at the <img src="https://image.flaticon.com/icons/svg/197/197560.svg" width="13"/> University of Bordeaux. Also studied at the <img src="https://image.flaticon.com/icons/svg/197/197484.svg" width="13"/> University of California, Santa Cruz. Currently in intership at @4SH.
+
+**I recently changed my github ID from N3ROO to lilgallon. If you see issues related to this, send me a message! :)**
 
 <h3> Skills </h3>
 
-I’ve got some experience in every domain of computer science <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="23">. Update March, 25th: I am FINALLY FREE FROM COLLEGE (almost)!! I can finally spend some time on my personal projects while doing my intership.
+I’ve got some experience in every domain of computer science <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="23">. I am currently focusing on the Angular / Kotlin / Spring / Gradle / GraphQL / Mongo / Kubernetes stack.
 
 <details>
   <summary><b>Recent Releases</b></summary>

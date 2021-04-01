@@ -2,7 +2,7 @@
 
 I'm a senior student specialized in Software Engineering at the <img src="https://image.flaticon.com/icons/svg/197/197560.svg" width="13"/> University of Bordeaux. Also studied at the <img src="https://image.flaticon.com/icons/svg/197/197484.svg" width="13"/> University of California, Santa Cruz. Currently in intership at @4SH.
 
-**I recently changed my github ID from N3ROO to lilgallon. If you see issues related to this, send me a message! :)**
+**I recently changed my github ID from N3ROO to lilgallon. If you see issues related to this, send me a message! I know that my minecraft mods have issues with the version checker. I'll update them asap.**
 
 <h3> Skills </h3>
 

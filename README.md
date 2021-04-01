@@ -1,4 +1,4 @@
-<h1> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi there, I'm Lilian - aka <img src="https://github.com/N3ROO/N3ROO/raw/master/nero_animated_small_transparent_crop.gif" width="100"/> </h1>
+<h1> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi there, I'm Lilian - aka <img src="https://github.com/lilgallon/lilgallon/raw/master/nero_animated_small_transparent_crop.gif" width="100"/> </h1>
 
 I'm a senior student specialized in Software Engineering at the <img src="https://image.flaticon.com/icons/svg/197/197560.svg" width="13"/> University of Bordeaux. Also studied at the <img src="https://image.flaticon.com/icons/svg/197/197484.svg" width="13"/> University of California, Santa Cruz.
 
@@ -11,31 +11,31 @@ I’ve got some experience in every domain of computer science <img src="https:/
 
 | 🎁 Project | 📝 Description |
 |----|----|
-| [Daily Wallhaven Wallpaper](https://github.com/N3ROO/Daily-Wallhaven-Wallpaper) 1.0.0 | A script that changes your wallpaper everyday by picking one on [Wallhaven]([W](https://wallhaven.cc/)) |
-| [BettercolorsEngine](https://github.com/N3ROO/BettercolorsEngine) 1.1.0 (published on maven central) | The Engine of the Minecraft mod [Bettercolors](https://github.com/N3ROO/Bettercolors). Can be used for anything else that requires an automatically generated GUI  |
-| [LatencyMod](https://github.com/N3ROO/LatencyMod) 0.1.0 | A Minecraft mod that displays your latency |
-| [Aim Assistance Mod](https://github.com/N3ROO/AimAssistanceMod) 1.3.0 | A Minecraft mod that helps you aiming |
-| [Bettercolors](https://github.com/N3ROO/Bettercolors) 7.3.0 | A Minecraft assistance mod
-| [Quick Search Mod](https://github.com/N3ROO/QuickSearchMod) 1.0.0 | A Minecraft mod to search for items
-| [Horse Stats Mod](https://github.com/N3ROO/HorseStatsMod) 1.3.1 | A Minecraft mod that shows the statistics of the ridden horse
-| [Anvil Tooltip Mod](https://github.com/N3ROO/AnvilTooltipMod) 1.0.0 | A Minecraft mod that shows the number of anvil uses as well as the repair cost of an item
-| [Dynamic Led Strips](https://github.com/N3ROO/DynamicLedStrips) 0.1.0 | A program that takes control of cheap Led Strips controllers to make them look expensive
+| [Daily Wallhaven Wallpaper](https://github.com/lilgallon/Daily-Wallhaven-Wallpaper) 1.0.0 | A script that changes your wallpaper everyday by picking one on [Wallhaven]([W](https://wallhaven.cc/)) |
+| [BettercolorsEngine](https://github.com/lilgallon/BettercolorsEngine) 1.1.0 (published on maven central) | The Engine of the Minecraft mod [Bettercolors](https://github.com/lilgallon/Bettercolors). Can be used for anything else that requires an automatically generated GUI  |
+| [LatencyMod](https://github.com/lilgallon/LatencyMod) 0.1.0 | A Minecraft mod that displays your latency |
+| [Aim Assistance Mod](https://github.com/lilgallon/AimAssistanceMod) 1.3.0 | A Minecraft mod that helps you aiming |
+| [Bettercolors](https://github.com/lilgallon/Bettercolors) 7.3.0 | A Minecraft assistance mod
+| [Quick Search Mod](https://github.com/lilgallon/QuickSearchMod) 1.0.0 | A Minecraft mod to search for items
+| [Horse Stats Mod](https://github.com/lilgallon/HorseStatsMod) 1.3.1 | A Minecraft mod that shows the statistics of the ridden horse
+| [Anvil Tooltip Mod](https://github.com/lilgallon/AnvilTooltipMod) 1.0.0 | A Minecraft mod that shows the number of anvil uses as well as the repair cost of an item
+| [Dynamic Led Strips](https://github.com/lilgallon/DynamicLedStrips) 0.1.0 | A program that takes control of cheap Led Strips controllers to make them look expensive
 
 </details>
 
 Currently maintaining Quick Search Mod, Horse Stats Mod, Anvil Tooltip Mod, Aim Assistance Mod, and Dynamic Led Strips.
 
-<h3> <img width=30 src="https://github.com/N3ROO/DynamicLedStrips/raw/main/.github/bls_icon.png"> Latest release </h3>
+<h3> <img width=30 src="https://github.com/lilgallon/DynamicLedStrips/raw/main/.github/bls_icon.png"> Latest release </h3>
                                                                                        
-My latest work, a C# software that connects LED Strips to your computer using Bluetooth LE. The color and brightness then change according to your activity. [Dynamic Led Strips](https://github.com/N3ROO/DynamicLedStrips)
+My latest work, a C# software that connects LED Strips to your computer using Bluetooth LE. The color and brightness then change according to your activity. [Dynamic Led Strips](https://github.com/lilgallon/DynamicLedStrips)
 
-<h3> <img src="https://github.com/N3ROO/N3ROO/raw/master/curseforge_png.png" width="30"/> The Simple Minecraft Mods Gallery </h3>
+<h3> <img src="https://github.com/lilgallon/lilgallon/raw/master/curseforge_png.png" width="30"/> The Simple Minecraft Mods Gallery </h3>
 
 <p style="text-align:center">
-  <a href="https://www.curseforge.com/minecraft/mc-mods/aim-assistance"> <img src="https://github.com/N3ROO/AimAssistanceMod/raw/MC_1.16.3/.github/images/aimassistancemod.png"> </a>
-  <a href="https://www.curseforge.com/minecraft/mc-mods/horse-statistics"> <img src="https://github.com/N3ROO/HorseStatsMod/raw/MC_1.16.x/.github/resources/horsestatsmod.png"> </a>
-  <a href="https://www.curseforge.com/minecraft/mc-mods/quick-search"> <img src="https://github.com/N3ROO/QuickSearchMod/raw/MC_1.16.3/.github/resources/quicksearch.png"> </a>
-  <a href="https://www.curseforge.com/minecraft/mc-mods/anvil-tooltip-mod"> <img src="https://github.com/N3ROO/AnvilTooltipMod/raw/MC_1.16.3/.github/resources/anviltooltipmod.png"> </a>
+  <a href="https://www.curseforge.com/minecraft/mc-mods/aim-assistance"> <img src="https://github.com/lilgallon/AimAssistanceMod/raw/MC_1.16.3/.github/images/aimassistancemod.png"> </a>
+  <a href="https://www.curseforge.com/minecraft/mc-mods/horse-statistics"> <img src="https://github.com/lilgallon/HorseStatsMod/raw/MC_1.16.x/.github/resources/horsestatsmod.png"> </a>
+  <a href="https://www.curseforge.com/minecraft/mc-mods/quick-search"> <img src="https://github.com/lilgallon/QuickSearchMod/raw/MC_1.16.3/.github/resources/quicksearch.png"> </a>
+  <a href="https://www.curseforge.com/minecraft/mc-mods/anvil-tooltip-mod"> <img src="https://github.com/lilgallon/AnvilTooltipMod/raw/MC_1.16.3/.github/resources/anviltooltipmod.png"> </a>
 </p>
 
 ![total downloads](https://img.shields.io/badge/Total%20downlods-20k%2B-brightgreen?style=for-the-badge&logo=java&labelColor=2E3440)
@@ -46,11 +46,11 @@ My latest work, a C# software that connects LED Strips to your computer using Bl
   <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#8](https://github.com/N3ROO/HorseStatsMod/issues/8) in [N3ROO/HorseStatsMod](https://github.com/N3ROO/HorseStatsMod)
-2. 🎉 Merged PR [#7](https://github.com/N3ROO/HorseStatsMod/pull/7) in [N3ROO/HorseStatsMod](https://github.com/N3ROO/HorseStatsMod)
-3. 🗣 Commented on [#7](https://github.com/N3ROO/HorseStatsMod/issues/7) in [N3ROO/HorseStatsMod](https://github.com/N3ROO/HorseStatsMod)
-4. ❗️ Closed issue [#6](https://github.com/N3ROO/HorseStatsMod/issues/6) in [N3ROO/HorseStatsMod](https://github.com/N3ROO/HorseStatsMod)
-5. 🗣 Commented on [#6](https://github.com/N3ROO/HorseStatsMod/issues/6) in [N3ROO/HorseStatsMod](https://github.com/N3ROO/HorseStatsMod)
+1. ❗️ Opened issue [#8](https://github.com/lilgallon/HorseStatsMod/issues/8) in [lilgallon/HorseStatsMod](https://github.com/lilgallon/HorseStatsMod)
+2. 🎉 Merged PR [#7](https://github.com/lilgallon/HorseStatsMod/pull/7) in [lilgallon/HorseStatsMod](https://github.com/lilgallon/HorseStatsMod)
+3. 🗣 Commented on [#7](https://github.com/lilgallon/HorseStatsMod/issues/7) in [lilgallon/HorseStatsMod](https://github.com/lilgallon/HorseStatsMod)
+4. ❗️ Closed issue [#6](https://github.com/lilgallon/HorseStatsMod/issues/6) in [lilgallon/HorseStatsMod](https://github.com/lilgallon/HorseStatsMod)
+5. 🗣 Commented on [#6](https://github.com/lilgallon/HorseStatsMod/issues/6) in [lilgallon/HorseStatsMod](https://github.com/lilgallon/HorseStatsMod)
 <!--END_SECTION:activity-->
 
 </details>
@@ -59,9 +59,9 @@ My latest work, a C# software that connects LED Strips to your computer using Bl
   <summary>:zap: Github Stats</summary>
 <br>
 
-![bio](https://github-readme-stats.vercel.app/api?username=N3ROO&show_icons=true&hide_title=true)
+![bio](https://github-readme-stats.vercel.app/api?username=lilgallon&show_icons=true&hide_title=true)
 
-![lang](https://github-readme-stats.vercel.app/api/top-langs/?username=N3ROO&layout=compact&hide=jupyter%20notebook)
+![lang](https://github-readme-stats.vercel.app/api/top-langs/?username=lilgallon&layout=compact&hide=jupyter%20notebook)
 
 </details>
 
@@ -111,7 +111,7 @@ My latest work, a C# software that connects LED Strips to your computer using Bl
 <a href="https://www.linkedin.com/in/lilian-gallon" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://twitter.com/LilianSurf" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
 <a href="https://discordapp.com/users/76281566866706432" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" /></a>
-<a href="https://github.com/N3ROO" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
+<a href="https://github.com/lilgallon" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
 </p>
 
 Also lilian@gallon.dev

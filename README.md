@@ -49,10 +49,10 @@ My latest work, a C# software that connects LED Strips to your computer using Bl
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#91](https://github.com/lilgallon/Bettercolors/issues/91) in [lilgallon/Bettercolors](https://github.com/lilgallon/Bettercolors)
-2. ❗️ Opened issue [#91](https://github.com/lilgallon/Bettercolors/issues/91) in [lilgallon/Bettercolors](https://github.com/lilgallon/Bettercolors)
-3. ❗️ Opened issue [#8](https://github.com/N3ROO/HorseStatsMod/issues/8) in [N3ROO/HorseStatsMod](https://github.com/N3ROO/HorseStatsMod)
-4. 🎉 Merged PR [#7](https://github.com/N3ROO/HorseStatsMod/pull/7) in [N3ROO/HorseStatsMod](https://github.com/N3ROO/HorseStatsMod)
-5. 🗣 Commented on [#7](https://github.com/N3ROO/HorseStatsMod/issues/7) in [N3ROO/HorseStatsMod](https://github.com/N3ROO/HorseStatsMod)
+2. 🗣 Commented on [#91](https://github.com/lilgallon/Bettercolors/issues/91) in [lilgallon/Bettercolors](https://github.com/lilgallon/Bettercolors)
+3. 🗣 Commented on [#91](https://github.com/lilgallon/Bettercolors/issues/91) in [lilgallon/Bettercolors](https://github.com/lilgallon/Bettercolors)
+4. ❗️ Opened issue [#91](https://github.com/lilgallon/Bettercolors/issues/91) in [lilgallon/Bettercolors](https://github.com/lilgallon/Bettercolors)
+5. ❗️ Opened issue [#8](https://github.com/N3ROO/HorseStatsMod/issues/8) in [N3ROO/HorseStatsMod](https://github.com/N3ROO/HorseStatsMod)
 <!--END_SECTION:activity-->
 
 </details>

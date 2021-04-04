@@ -1,6 +1,6 @@
 <h1> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi there, I'm Lilian - aka <img src="https://github.com/lilgallon/lilgallon/raw/master/nero_animated_small_transparent_crop.gif" width="100"/> </h1>
 
-I'm a senior student specialized in Software Engineering at the <img src="https://image.flaticon.com/icons/svg/197/197560.svg" width="13"/> University of Bordeaux. Also studied at the <img src="https://image.flaticon.com/icons/svg/197/197484.svg" width="13"/> University of California, Santa Cruz. Currently in intership at @4SH.
+I'm a senior student specialized in Software Engineering at the <img src="https://image.flaticon.com/icons/svg/197/197560.svg" width="13"/> University of Bordeaux. Also studied at the <img src="https://image.flaticon.com/icons/svg/197/197484.svg" width="13"/> University of California, Santa Cruz. Currently on intership at @4SH.
 
 Co-owner of [https://eznba.co](https://eznba.co) (still under beta testing)
 

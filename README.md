@@ -1,10 +1,12 @@
 <h1> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi there, I'm Lilian - aka <img src="https://github.com/lilgallon/lilgallon/raw/master/nero_animated_small_transparent_crop.gif" width="100"/> </h1>
 
-I'm a senior student specialized in Software Engineering at the <img src="https://image.flaticon.com/icons/svg/197/197560.svg" width="13"/> University of Bordeaux. Also studied at the <img src="https://image.flaticon.com/icons/svg/197/197484.svg" width="13"/> University of California, Santa Cruz. Currently on internship at @4SH.
+I'm a Software Engineer at [@4SH](https://github.com/4sh).
+
+Former student of:
+- <img src="https://image.flaticon.com/icons/svg/197/197560.svg" width="13"/> University of Bordeaux
+- <img src="https://image.flaticon.com/icons/svg/197/197484.svg" width="13"/> University of California, Santa Cruz.
 
 Co-owner of [https://eznba.co](https://eznba.co) (still under beta testing)
-
-**I recently changed my github ID from N3ROO to lilgallon. If you see issues related to this, send me a message. :) The version checkers of my mods should still work since I made an other Github account with my old ID (the account forked all my mods' repositories).**
 
 <h3> Skills </h3>
 
@@ -80,8 +82,6 @@ My latest work, a C# software that connects LED Strips to your computer using Bl
 <img src="https://wakatime.com/share/@3c59958d-a444-4018-bacc-6e46cccf8835/54eebe48-4f46-407b-93ac-d4e9db98ce8e.svg" width=500/>
 
 <img src="https://wakatime.com/share/@3c59958d-a444-4018-bacc-6e46cccf8835/f5524270-6093-4871-8575-a23a40e7da56.svg" width=500/>
-
-*Yeah, I like Windows*
 
 </details>
 

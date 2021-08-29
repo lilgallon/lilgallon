@@ -3,6 +3,7 @@
 I'm a Software Engineer at [@4SH](https://github.com/4sh).
 
 Former student of:
+- <img src="https://image.flaticon.com/icons/svg/197/197560.svg" width="13"/> Bordeaux Institute of Technology
 - <img src="https://image.flaticon.com/icons/svg/197/197560.svg" width="13"/> University of Bordeaux
 - <img src="https://image.flaticon.com/icons/svg/197/197484.svg" width="13"/> University of California, Santa Cruz.
 

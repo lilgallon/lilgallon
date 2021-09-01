@@ -54,10 +54,10 @@ My latest work, a C# software that connects LED Strips to your computer using Bl
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#10](https://github.com/lilgallon/HorseStatsMod/issues/10) in [lilgallon/HorseStatsMod](https://github.com/lilgallon/HorseStatsMod)
-2. ❗️ Closed issue [#93](https://github.com/lilgallon/Bettercolors/issues/93) in [lilgallon/Bettercolors](https://github.com/lilgallon/Bettercolors)
-3. 🗣 Commented on [#93](https://github.com/lilgallon/Bettercolors/issues/93) in [lilgallon/Bettercolors](https://github.com/lilgallon/Bettercolors)
+2. 🗣 Commented on [#10](https://github.com/lilgallon/HorseStatsMod/issues/10) in [lilgallon/HorseStatsMod](https://github.com/lilgallon/HorseStatsMod)
+3. ❗️ Closed issue [#93](https://github.com/lilgallon/Bettercolors/issues/93) in [lilgallon/Bettercolors](https://github.com/lilgallon/Bettercolors)
 4. 🗣 Commented on [#93](https://github.com/lilgallon/Bettercolors/issues/93) in [lilgallon/Bettercolors](https://github.com/lilgallon/Bettercolors)
-5. ❗️ Closed issue [#92](https://github.com/lilgallon/Bettercolors/issues/92) in [lilgallon/Bettercolors](https://github.com/lilgallon/Bettercolors)
+5. 🗣 Commented on [#93](https://github.com/lilgallon/Bettercolors/issues/93) in [lilgallon/Bettercolors](https://github.com/lilgallon/Bettercolors)
 <!--END_SECTION:activity-->
 
 </details>

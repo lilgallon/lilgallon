@@ -3,9 +3,9 @@
 Software Engineer at [@4SH](https://github.com/4sh).
 
 Former student of:
-- <img src="https://image.flaticon.com/icons/svg/197/197560.svg" width="13"/> Bordeaux Institute of Technology
-- <img src="https://image.flaticon.com/icons/svg/197/197560.svg" width="13"/> University of Bordeaux
-- <img src="https://image.flaticon.com/icons/svg/197/197484.svg" width="13"/> University of California, Santa Cruz.
+- 🇫🇷 Bordeaux Institute of Technology
+- 🇫🇷 University of Bordeaux
+- 🇺🇸 University of California, Santa Cruz.
 
 Co-owner of [https://eznba.co](https://eznba.co) (still under beta testing)
 

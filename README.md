@@ -45,7 +45,7 @@ My latest work, a C# software that connects LED Strips to your computer using Bl
   <a href="https://www.curseforge.com/minecraft/mc-mods/anvil-tooltip-mod"> <img src="https://github.com/lilgallon/AnvilTooltipMod/raw/MC_1.16.3/.github/resources/anviltooltipmod.png"> </a>
 </p>
 
-![total downloads](https://img.shields.io/badge/Total%20downloads-100k%2B-brightgreen?style=for-the-badge&logo=java&labelColor=2E3440)
+![total downloads](https://img.shields.io/badge/Total%20downloads-150k%2B-brightgreen?style=for-the-badge&logo=java&labelColor=2E3440)
 
 ---
 

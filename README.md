@@ -7,8 +7,6 @@ Former student of:
 - 🇫🇷 University of Bordeaux
 - 🇺🇸 University of California, Santa Cruz.
 
-Co-owner of [https://eznba.co](https://eznba.co) (still under beta testing)
-
 <h3> Skills </h3>
 
 I’ve got some experience in every domain of computer science <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="23">. I am currently focusing on gRPC / gRPC-web.
@@ -46,6 +44,12 @@ My latest work, a C# software that connects LED Strips to your computer using Bl
 </p>
 
 ![total downloads](https://img.shields.io/badge/Total%20downloads-150k%2B-brightgreen?style=for-the-badge&logo=java&labelColor=2E3440)
+
+<h3> <img src="https://static.ankama.com/g/modules/masterpage/block/header/navbar/dofus/logo.png" width="60"/> Developer of Dofus Mage Calculator </h3>
+
+- 150 daily users: https://gallon.dev/dofus-tools/forgemagie.html
+- 10k total users
+- 100k impressions
 
 ---
 

@@ -7,12 +7,35 @@ Former student of:
 - 🇫🇷 University of Bordeaux
 - 🇺🇸 University of California, Santa Cruz.
 
-<h3> Skills </h3>
-
 I’ve got some experience in every domain of computer science <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="23">. I am currently focusing on gRPC / gRPC-web.
 
+---
+
+<h3> <img width=30 src="https://github.com/lilgallon/DynamicLedStrips/raw/main/.github/bls_icon.png"> Experiment: Dynamic LED Strips </h3>
+                                                                                       
+A C# software that connects **any** Bluetooth LED Strip to your computer using Bluetooth LE. The color and brightness then change according to your activity. [Dynamic Led Strips](https://github.com/lilgallon/DynamicLedStrips). A bit like *Philips Hue* but for any BLE-compatible device.
+
+<h3> <img src="https://github.com/lilgallon/lilgallon/raw/master/curseforge_png.png" width="30"/> My Minecraft Mods </h3>
+
+<p style="text-align:center">
+  <a href="https://www.curseforge.com/minecraft/mc-mods/aim-assistance"> <img src="https://github.com/lilgallon/AimAssistanceMod/raw/MC_1.16.3/.github/images/aimassistancemod.png"> </a>
+  <a href="https://www.curseforge.com/minecraft/mc-mods/horse-statistics"> <img src="https://github.com/lilgallon/HorseStatsMod/raw/MC_1.16.x/.github/resources/horsestatsmod.png"> </a>
+  <a href="https://www.curseforge.com/minecraft/mc-mods/quick-search"> <img src="https://github.com/lilgallon/QuickSearchMod/raw/MC_1.16.3/.github/resources/quicksearch.png"> </a>
+  <a href="https://www.curseforge.com/minecraft/mc-mods/anvil-tooltip-mod"> <img src="https://github.com/lilgallon/AnvilTooltipMod/raw/MC_1.16.3/.github/resources/anviltooltipmod.png"> </a>
+</p>
+
+![total downloads](https://img.shields.io/badge/Total%20downloads-200k%2B-brightgreen?style=for-the-badge&logo=java&labelColor=2E3440)
+
+<h3> <img src="https://static.ankama.com/g/modules/masterpage/block/header/navbar/dofus/logo.png" width="60"/> Developer of Dofus Mage Calculator </h3>
+
+- 150 daily users: https://gallon.dev/dofus-tools/forgemagie.html
+- 10k total users
+- 100k impressions
+
+---
+
 <details>
-  <summary><b>Recent Releases</b></summary>
+  <summary>:zap: Latest Releases</summary>
 
 | 🎁 Project | 📝 Description |
 |----|----|
@@ -27,31 +50,6 @@ I’ve got some experience in every domain of computer science <img src="https:/
 | [Dynamic Led Strips](https://github.com/lilgallon/DynamicLedStrips) 0.1.0 | A program that takes control of cheap Led Strips controllers to make them look expensive
 
 </details>
-
-Currently maintaining Quick Search Mod, Horse Stats Mod, Anvil Tooltip Mod, Aim Assistance Mod, and Dynamic Led Strips.
-
-<h3> <img width=30 src="https://github.com/lilgallon/DynamicLedStrips/raw/main/.github/bls_icon.png"> Latest release </h3>
-                                                                                       
-My latest work, a C# software that connects LED Strips to your computer using Bluetooth LE. The color and brightness then change according to your activity. [Dynamic Led Strips](https://github.com/lilgallon/DynamicLedStrips)
-
-<h3> <img src="https://github.com/lilgallon/lilgallon/raw/master/curseforge_png.png" width="30"/> The Simple Minecraft Mods Gallery </h3>
-
-<p style="text-align:center">
-  <a href="https://www.curseforge.com/minecraft/mc-mods/aim-assistance"> <img src="https://github.com/lilgallon/AimAssistanceMod/raw/MC_1.16.3/.github/images/aimassistancemod.png"> </a>
-  <a href="https://www.curseforge.com/minecraft/mc-mods/horse-statistics"> <img src="https://github.com/lilgallon/HorseStatsMod/raw/MC_1.16.x/.github/resources/horsestatsmod.png"> </a>
-  <a href="https://www.curseforge.com/minecraft/mc-mods/quick-search"> <img src="https://github.com/lilgallon/QuickSearchMod/raw/MC_1.16.3/.github/resources/quicksearch.png"> </a>
-  <a href="https://www.curseforge.com/minecraft/mc-mods/anvil-tooltip-mod"> <img src="https://github.com/lilgallon/AnvilTooltipMod/raw/MC_1.16.3/.github/resources/anviltooltipmod.png"> </a>
-</p>
-
-![total downloads](https://img.shields.io/badge/Total%20downloads-150k%2B-brightgreen?style=for-the-badge&logo=java&labelColor=2E3440)
-
-<h3> <img src="https://static.ankama.com/g/modules/masterpage/block/header/navbar/dofus/logo.png" width="60"/> Developer of Dofus Mage Calculator </h3>
-
-- 150 daily users: https://gallon.dev/dofus-tools/forgemagie.html
-- 10k total users
-- 100k impressions
-
----
 
 <details>
   <summary>:zap: Recent Github Activity</summary>
@@ -73,6 +71,8 @@ My latest work, a C# software that connects LED Strips to your computer using Bl
 ![bio](https://github-readme-stats.vercel.app/api?username=lilgallon&show_icons=true&hide_title=true)
 
 ![lang](https://github-readme-stats.vercel.app/api/top-langs/?username=lilgallon&layout=compact&hide=jupyter%20notebook)
+
+[![activity graph](https://activity-graph.herokuapp.com/graph?username=lilgallon&theme=github)](https://github.com/lilgallon)
 
 </details>
 
@@ -107,10 +107,7 @@ My latest work, a C# software that connects LED Strips to your computer using Bl
 
 </details>
 
-
-
 ---
-
 
 <h3> Where to find me </h3>
 
@@ -120,7 +117,6 @@ My latest work, a C# software that connects LED Strips to your computer using Bl
 <a href="https://www.linkedin.com/in/lilian-gallon" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://twitter.com/LilianSurf" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
 <a href="https://discordapp.com/users/76281566866706432" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" /></a>
-<a href="https://github.com/lilgallon" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
 </p>
 
 Also lilian@gallon.dev

@@ -7,7 +7,7 @@ Former student of:
 - 🇫🇷 University of Bordeaux
 - 🇺🇸 University of California, Santa Cruz.
 
-I’ve got some experience in every domain of computer science <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="23">. I am currently focusing on gRPC / gRPC-web.
+I’ve got some experience in every domain of computer science <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="23">. I am currently focusing on kotlin (couroutines and advanced features).
 
 ---
 

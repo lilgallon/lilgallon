@@ -1,6 +1,4 @@
-<h1> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi there, I'm Lilian - aka <img src="https://github.com/lilgallon/lilgallon/raw/master/nero_animated_small_transparent_crop.gif" width="100"/> </h1>
-
-Software Engineer at [@4SH](https://github.com/4sh).
+![header](github-header-image.png)
 
 Former student of:
 - 🇫🇷 Bordeaux Institute of Technology

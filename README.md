@@ -119,4 +119,6 @@ A C# software that connects **any** Bluetooth LED Strip to your computer using B
 <a href="https://discordapp.com/users/76281566866706432" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" /></a>
 </p>
 
+[![lilgallon StackOverflow](https://stackoverflow-readme-profile.johannchopin.fr/profile/8811838?theme=dark&website=false)](https://stackoverflow.com/users/8811838/lilgallon)
+
 Also lilian@gallon.dev

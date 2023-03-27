@@ -75,21 +75,6 @@ A C# software that connects **any** Bluetooth LED Strip to your computer using B
 </details>
 
 <details>
-  <summary>:zap: Even more statistics (7 last days)</summary>
-<br>
-
-<img src="https://wakatime.com/share/@3c59958d-a444-4018-bacc-6e46cccf8835/d3b8039d-4b10-4854-9ba4-75f55e51745b.svg" width=500/>
-
-<img src="https://wakatime.com/share/@3c59958d-a444-4018-bacc-6e46cccf8835/525f0563-4377-4a5a-b27a-18d6eb21f33f.svg" width=500/>
-
-<img src="https://wakatime.com/share/@3c59958d-a444-4018-bacc-6e46cccf8835/54eebe48-4f46-407b-93ac-d4e9db98ce8e.svg" width=500/>
-
-<img src="https://wakatime.com/share/@3c59958d-a444-4018-bacc-6e46cccf8835/f5524270-6093-4871-8575-a23a40e7da56.svg" width=500/>
-
-</details>
-
-
-<details>
   <summary>:zap: EVEN MORE statistics (since September 2020)</summary>
 <br>
 

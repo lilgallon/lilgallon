@@ -16,13 +16,11 @@ A C# software that connects **any** Bluetooth LED Strip to your computer using B
 <h3> <img src="https://github.com/lilgallon/lilgallon/raw/master/curseforge_png.png" width="30"/> My Minecraft Mods </h3>
 
 <p style="text-align:center">
-  <a href="https://www.curseforge.com/minecraft/mc-mods/aim-assistance"> <img src="https://github.com/lilgallon/AimAssistanceMod/raw/MC_1.16.3/.github/images/aimassistancemod.png"> </a>
-  <a href="https://www.curseforge.com/minecraft/mc-mods/horse-statistics"> <img src="https://github.com/lilgallon/HorseStatsMod/raw/MC_1.16.x/.github/resources/horsestatsmod.png"> </a>
-  <a href="https://www.curseforge.com/minecraft/mc-mods/quick-search"> <img src="https://github.com/lilgallon/QuickSearchMod/raw/MC_1.16.3/.github/resources/quicksearch.png"> </a>
-  <a href="https://www.curseforge.com/minecraft/mc-mods/anvil-tooltip-mod"> <img src="https://github.com/lilgallon/AnvilTooltipMod/raw/MC_1.16.3/.github/resources/anviltooltipmod.png"> </a>
+  <a href="https://www.curseforge.com/minecraft/mc-mods/aim-assistance"> <img src="https://github.com/lilgallon/AimAssistanceMod"> </a>
+  <a href="https://www.curseforge.com/minecraft/mc-mods/horse-statistics"> <img src="https://github.com/lilgallon/HorseStatsMod"> </a>
 </p>
 
-![total downloads](https://img.shields.io/badge/Total%20downloads-200k%2B-brightgreen?style=for-the-badge&logo=java&labelColor=2E3440)
+![total downloads](https://img.shields.io/badge/Total%20downloads-500k%2B-brightgreen?style=for-the-badge&logo=java&labelColor=2E3440)
 
 <h3> <img src="https://static.ankama.com/g/modules/masterpage/block/header/navbar/dofus/logo.png" width="60"/> Developer of Dofus Mage Calculator </h3>
 
@@ -31,23 +29,6 @@ A C# software that connects **any** Bluetooth LED Strip to your computer using B
 - 100k impressions
 
 ---
-
-<details>
-  <summary>:zap: Latest Releases</summary>
-
-| 🎁 Project | 📝 Description |
-|----|----|
-| [Daily Wallhaven Wallpaper](https://github.com/lilgallon/Daily-Wallhaven-Wallpaper) 1.0.0 | A script that changes your wallpaper everyday by picking one on [Wallhaven]([W](https://wallhaven.cc/)) |
-| [BettercolorsEngine](https://github.com/lilgallon/BettercolorsEngine) 1.1.0 (published on maven central) | The Engine of the Minecraft mod [Bettercolors](https://github.com/lilgallon/Bettercolors). Can be used for anything else that requires an automatically generated GUI  |
-| [LatencyMod](https://github.com/lilgallon/LatencyMod) 0.1.0 | A Minecraft mod that displays your latency |
-| [Aim Assistance Mod](https://github.com/lilgallon/AimAssistanceMod) 1.3.0 | A Minecraft mod that helps you aiming |
-| [Bettercolors](https://github.com/lilgallon/Bettercolors) 7.3.0 | A Minecraft assistance mod
-| [Quick Search Mod](https://github.com/lilgallon/QuickSearchMod) 1.0.0 | A Minecraft mod to search for items
-| [Horse Stats Mod](https://github.com/lilgallon/HorseStatsMod) 1.3.1 | A Minecraft mod that shows the statistics of the ridden horse
-| [Anvil Tooltip Mod](https://github.com/lilgallon/AnvilTooltipMod) 1.0.0 | A Minecraft mod that shows the number of anvil uses as well as the repair cost of an item
-| [Dynamic Led Strips](https://github.com/lilgallon/DynamicLedStrips) 0.1.0 | A program that takes control of cheap Led Strips controllers to make them look expensive
-
-</details>
 
 <details>
   <summary>:zap: Recent Github Activity</summary>

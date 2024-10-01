@@ -5,22 +5,22 @@ Former student of:
 - 🇫🇷 University of Bordeaux
 - 🇺🇸 University of California, Santa Cruz.
 
-I’ve got some experience in every domain of computer science <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="23">. I am currently focusing on kotlin (couroutines and advanced features).
+I’ve got some experience in every domain of computer science <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="23">.
 
 ---
-
-<h3> <img width=30 src="https://github.com/lilgallon/DynamicLedStrips/raw/main/.github/bls_icon.png"> Experiment: Dynamic LED Strips </h3>
-                                                                                       
-A C# software that connects **any** Bluetooth LED Strip to your computer using Bluetooth LE. The color and brightness then change according to your activity. [Dynamic Led Strips](https://github.com/lilgallon/DynamicLedStrips). A bit like *Philips Hue* but for any BLE-compatible device.
 
 <h3> <img src="https://github.com/lilgallon/lilgallon/raw/master/curseforge_png.png" width="30"/> My Minecraft Mods </h3>
 
 <p style="text-align:center">
-  <a href="https://www.curseforge.com/minecraft/mc-mods/aim-assistance"> <img src="https://github.com/lilgallon/AimAssistanceMod"> </a>
-  <a href="https://www.curseforge.com/minecraft/mc-mods/horse-statistics"> <img src="https://github.com/lilgallon/HorseStatsMod"> </a>
+  <a href="https://github.com/lilgallon/AimAssistanceMod"> <img src="https://github.com/lilgallon/AimAssistanceMod/blob/main/.github/assets/motor-assistance-icon.png" width="100px"> </a>
+  <a href="-https://github.com/lilgallon/HorseStatsMod"> <img src="https://github.com/lilgallon/HorseStatsMod/raw/MC_1.19.x/.github/resources/horsestatsmod.png" width="100px"> </a>
 </p>
 
 ![total downloads](https://img.shields.io/badge/Total%20downloads-500k%2B-brightgreen?style=for-the-badge&logo=java&labelColor=2E3440)
+
+<h3> <img width=30 src="https://github.com/lilgallon/DynamicLedStrips/raw/main/.github/bls_icon.png"> Experiment: Dynamic LED Strips </h3>
+                                                                                       
+A C# software that connects **any** Bluetooth LED Strip to your computer using Bluetooth LE. The color and brightness then change according to your activity. [Dynamic Led Strips](https://github.com/lilgallon/DynamicLedStrips). A bit like *Philips Hue* but for any BLE-compatible device.
 
 <h3> <img src="https://static.ankama.com/g/modules/masterpage/block/header/navbar/dofus/logo.png" width="60"/> Developer of Dofus Mage Calculator </h3>
 

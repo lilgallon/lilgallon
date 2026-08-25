@@ -4,6 +4,7 @@
 <li><a href="https://github.com/IZIVIA/ocpi-toolkit">ocpi-toolkit</a>: OCPI kotlin library</li>
 <li><a href="https://github.com/lilgallon/AimAssistanceMod">motor assistance</a>: aim assistance on blocks / mobs (not players) for minecraft</li>
 <li><a href="https://github.com/lilgallon/HorseStatsMod">horse stats</a>: mod that shows hidden horse stats</li>
+<li><a href="https://github.com/Obsidian-jira-plugin/obsidian-jira-issue">obsidian jira issue</a>: Jira integration for Obsidian (community fork of an abandoned project)</li>
 </ul>
 
 ![total downloads](https://img.shields.io/badge/Minecrat%20mods%20downloads-800k%2B-brightgreen?style=for-the-badge&logo=java&labelColor=2E3440)

@@ -7,7 +7,7 @@
 <li><a href="https://github.com/Obsidian-jira-plugin/obsidian-jira-issue">obsidian jira issue</a>: Jira integration for Obsidian (community fork of an abandoned project)</li>
 </ul>
 
-![total downloads](https://img.shields.io/badge/Minecrat%20mods%20downloads-800k%2B-brightgreen?style=for-the-badge&logo=java&labelColor=2E3440)
+![total downloads](https://img.shields.io/badge/Minecrat%20mods%20downloads-1M%2B-brightgreen?style=for-the-badge&logo=java&labelColor=2E3440)
 
 <h3> Where to find me </h3>
 
